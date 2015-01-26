@@ -4,7 +4,7 @@ published: true
 morea_id: reading-athletic-software-engineering
 morea_summary: "An 'athletic' approach to programming using Workouts of the Day."
 morea_type: reading
-morea_sort_order: 1
+morea_sort_order: 4
 ---
 
 # WODs: An athletic approach to programming
@@ -34,13 +34,13 @@ unacceptably slow.
 Note that simply stopping work at a certain time does not
 mean you achieved the associated standard: your solution must have acceptable quality as well.
 
-## Practice WODS
+## Practice WODs
 
 For each module, I provide practice WODs as homework assignments, which you can time on your own. Before starting a WOD, I recommend you review
 and study the associated material so that you do not spend valuable seconds
 during the WOD doing "research". 
 
-## Graded WODS
+## Graded WODs
 
 After providing you with time to practice some WODs, I will hold a graded
 WOD in class, during which I will time your performance and your solution will be submitted
@@ -49,14 +49,16 @@ with acceptable quality under the DNF cut-off time.
 
 **Your grade does not depend upon whether you performed at Rx, Av, or Sd levels, only that you complete the WOD correctly before the DNF cutoff time.**
 
-The general procedure for an assessment WOD is as follows:
+Partial credit will be given for correct WODs submitted before the next class.
+
+<!--The general procedure for an assessment WOD is as follows:
 
   * You have your own WOD"-velope", which is an envelope containing an" index card where we will keep track of your WOD scores.
   * On the day of a WOD, you pick up your WOD-velope from me and fill out the date, and the name of the WOD.
   * Once everyone is ready, I start a timer and give out the WOD assignment.
   * When you finish the WOD, raise your hand. I will tell you your elapsed time. You record that on the index card and I collect your WOD-velope.
   * When the WOD is finished (i.e. at the DNF cut-off time), everyone stops work and submits their program data.
-  * After class, I check each WOD assignment and give a grade. I also write down Rx, Av, Sd, or DNF on the index card. You can only receive Rx, Av, or Sd if you complete the WOD correctly and within the time frame for that performance level.
+  * After class, I check each WOD assignment and give a grade. I also write down Rx, Av, Sd, or DNF on the index card. You can only receive Rx, Av, or Sd if you complete the WOD correctly and within the time frame for that performance level.-->
 
 ## Further Reading
 

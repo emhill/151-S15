@@ -1,23 +1,22 @@
 ---
-title: "Programming WODs"
+title: "Course Overview"
 published: true
 morea_id: wod
 morea_outcomes:
  - outcome1
- - outcome2
 morea_readings:
+ - reading-picture
+ - reading-schools
+ - reading-cs5intro
  - reading-athletic-software-engineering
  - reading-wod-weekly-rhythm
 morea_experiences:
- - experience1
+ - hw1
 morea_assessments:
- - assessment1
+ - grade1
 morea_type: module
-morea_icon_url: /morea/foo/logo.png
-morea_labels:
- - required
- - intro
-morea_sort_order: 4
+morea_icon_url: /morea/WOD-intro/python-logo.png
+morea_sort_order: 1
 ---
 
-This is the first module in this sample template.
+What is Computer Science? Why should you learn to program? Overview of the course structure and the WOD approach. 
