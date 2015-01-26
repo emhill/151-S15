@@ -3,9 +3,9 @@ title: "CSCI 117 Intro Survey"
 published: true
 morea_id: grade1
 morea_type: assessment
-morea_sort_order: 1
 morea_outcomes_assessed:
   - outcome1
+morea_sort_order: 0
 ---
 
 Assess course motivation, understanding of course structure, and what is computer science.

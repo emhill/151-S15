@@ -10,12 +10,13 @@ morea_readings:
  - reading-cs5intro
  - reading-athletic-software-engineering
  - reading-wod-weekly-rhythm
+ - reading-slides
 morea_experiences:
  - hw1
 morea_assessments:
  - grade1
 morea_type: module
-morea_icon_url: /morea/WOD-intro/python-logo.png
+morea_icon_url: /morea/01.WOD-intro/python-logo.png
 morea_sort_order: 1
 ---
 

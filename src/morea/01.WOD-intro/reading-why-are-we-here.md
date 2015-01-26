@@ -4,7 +4,7 @@ published: true
 morea_id: reading-why-are-we-here
 morea_summary: "Why should everyone learn to program? What is Computer Science?"
 morea_type: reading
-morea_sort_order: 1 
+morea_sort_order: 0
 ---
 
 #Why are we here?s
