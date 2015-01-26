@@ -24,7 +24,7 @@ Each module starts on Thursday and ends the following Wednesday.
 ## Thursday
 
 The module web page is released. The  module page contains overview materials (online readings and
-screencasts) on the material.   In addition, it contains experiences consisting of "practice [WODs](/morea/WOD-intro/reading-athletic-software-engineering.html)" and [online](http://www.codecademy.com/en/tracks/python) exercises.  The "WODs" (workout of the day) are
+screencasts) on the material.   In addition, it contains experiences consisting of "practice [WODs](/morea/WOD-intro/reading-athletic-software-engineering.html)" and [online](http://codingbat.com/java) exercises.  The "WODs" (workout of the day) are
 short assignments with prescribed times for finishing, along with a solution
 video that I provide. You are encouraged to try each WOD without
 watching my solution video, then watch the video and repeat the WOD until you
@@ -33,7 +33,7 @@ can complete it in the prescribed period of time.
 <!--Many students do the practice WODs two or three times. (And some students do not complete them at
 all.) -->
 
-You should complete the readings by Friday, the online exercises by Monday, and the practice WODs by the following Wednesday.
+You should complete the readings by Friday, the first practice WOD or online exercises by Monday, and the second practice WODs by the following Wednesday.
 
 ## Friday
 

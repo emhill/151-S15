@@ -1,6 +1,6 @@
 ---
 title: "CSCI 117 Intro Survey"
-published: true
+published: false
 morea_id: grade1
 morea_type: assessment
 morea_outcomes_assessed:

@@ -4,8 +4,8 @@ morea_id: home
 morea_type: home
 ---
 
-## Welcome to Introduction to  Computers and Computing 
+## Welcome to Object Oriented Programming in Java 
 
-**Essential Question:** How can we automatically solve problems using computers?
+**Essential Question:** How do we design, write, and test large computer programs?
 
-By the end of the course, you should be able to implement solutions to solve basic computational problems, including manipulating images, gaining insight from large data sets, and analyzing social networks. You will learn Python, a popular and easy-to-use general-purpose programming language, and use it to implement your algorithms. You will learn to navigate your computer and execute pro- grams using the UNIX command-line interface.
+By the end of this course, students should be able to: (1) decompose problems into actions and objects, (2) apply advanced programming constructs such as recursion and collections to implement solutions, (3) use inheritance to facilitate localized changes, (4) design & implement an event-driven application with a graphical user interface, and (5) take advantage of automated development tools.

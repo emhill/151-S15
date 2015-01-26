@@ -1,9 +1,9 @@
 ---
-title: "Why are we here?"
+title: "Getting started with Java"
 published: true
 morea_id: outcome1
 morea_type: outcome
 morea_sort_order: 1
 ---
 
-Why should everyone learn to program? What is Computer Science?
+Installing Java, Eclipse, and running your first Java program.

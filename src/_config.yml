@@ -1,6 +1,6 @@
-name: CSCI 117 Spring 2015
+name: CSCI 151 Spring 2015
 highlighter: pygments
 safe: false
-baseurl: /117-S15
+baseurl: /151-S15
 exclude: [morea]
-morea_theme: spacelab
+morea_theme: cerulean
