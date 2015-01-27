@@ -9,17 +9,17 @@ morea_type: home
 
 By the end of this course, students should be able to: (1) decompose problems into actions and objects, (2) apply advanced programming constructs such as recursion and collections to implement solutions, (3) use inheritance to facilitate localized changes, (4) design & implement an event-driven application with a graphical user interface, and (5) take advantage of automated development tools.
 
-### Materials
+<!--### Materials
+
+<!--<div style="float: right">
+    <img src="/morea/01.WOD-intro/eclipse.jpg" title="Eclipse IDE" width="100"/>
+</div>
 
 #### Laptop
 
 To explore and implement the topics we will be discussing in class, you will need a laptop.
 
-<div style="float: left">
-    <img src="/morea/01.WOD-intro/eclipse.jpg" title="Eclipse IDE" width="100"/>
-</div>
-
 #### Integrated Development Environment
-You will need to work on programming assignments outside of class time. In this course, we will be using [Eclipse IDE for Java Developers](http://www.eclipse.org/downloads/), which is freely available for Windows, Mac, and Linux.
-### Sylabus
+You will need to work on programming assignments outside of class time. In this course, we will be using [Eclipse IDE for Java Developers](http://www.eclipse.org/downloads/), which is freely available for Windows, Mac, and Linux.-->
+### Syllabus
 [Overview of course policies](/morea/materials/Syllabus.pdf)
