@@ -22,4 +22,4 @@ To explore and implement the topics we will be discussing in class, you will nee
 #### Integrated Development Environment
 You will need to work on programming assignments outside of class time. In this course, we will be using [Eclipse IDE for Java Developers](http://www.eclipse.org/downloads/), which is freely available for Windows, Mac, and Linux.-->
 ### Syllabus
-[Overview of course policies](/morea/materials/Syllabus.pdf)
+[Overview of course policies]({{site.baseurl}}/morea/materials/Syllabus.pdf)
