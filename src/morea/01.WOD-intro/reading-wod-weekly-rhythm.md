@@ -14,7 +14,7 @@ morea_sort_order: 0
 This class meets Monday, Wednesday, and Friday. Weather permitting, we will have a well defined "rhythm".
 
 At the top level, the course consists of a [sequence of
-modules](/modules). Typically, each topic will take one week to cover. 
+modules]({{site.baseurl}}/modules). Typically, each topic will take one week to cover. 
 In some cases, a
 module might be split into parts and take multiple weeks to cover.
 
@@ -24,7 +24,7 @@ Each module starts on Thursday and ends the following Wednesday.
 ## Thursday
 
 The module web page is released. The  module page contains overview materials (online readings and
-screencasts) on the material.   In addition, it contains experiences consisting of "practice [WODs](/morea/WOD-intro/reading-athletic-software-engineering.html)" and [online](http://codingbat.com/java) exercises.  The "WODs" (workout of the day) are
+screencasts) on the material.   In addition, it contains experiences consisting of "practice [WODs](reading-athletic-software-engineering.html)" and [online](http://codingbat.com/java) exercises.  The "WODs" (workout of the day) are
 short assignments with prescribed times for finishing, along with a solution
 video that I provide. You are encouraged to try each WOD without
 watching my solution video, then watch the video and repeat the WOD until you

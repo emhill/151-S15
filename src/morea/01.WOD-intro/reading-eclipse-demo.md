@@ -5,7 +5,7 @@ morea_id: reading-eclipse-demo
 morea_summary: "Dr. Hill's Eclipse video demo downloading & installing Eclipse, setting it up for the first time, and creating a new project."
 morea_type: reading
 morea_sort_order: 0
-morea_url: /materials/DownloadingEclipse.mp4
+morea_url: /morea/materials/DownloadingEclipse.mp4
 morea_labels:
  - video
  - 6 min
