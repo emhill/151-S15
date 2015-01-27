@@ -1,10 +1,10 @@
 ---
-title: "Practice WOD: Hello World Import & Export"
+title: "Practice WOD: Hello World"
 published: true
 morea_id: pwod1
 morea_type: experience
 morea_sort_order: 2
-morea_summary: "Hello World"
+morea_summary: "Hello World Import & Export"
 morea_labels:
  - 1/28
 ---
