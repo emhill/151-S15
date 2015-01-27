@@ -1,14 +1,14 @@
 ---
-title: "Eclipse installation demo"
+title: "Eclipse import demo"
 published: true
-morea_id: reading-eclipse-demo
-morea_summary: "Dr. Hill's Eclipse video demo downloading & installing Eclipse, setting it up for the first time, and creating a new project."
+morea_id: reading-eclipse-import
+morea_summary: "Dr. Hill's video demo importing a  project inot Eclipse."
 morea_type: reading
 morea_sort_order: 0
-morea_url: http://youtu.be/dc70DVjWnyI
+morea_url: http://youtu.be/oinpGiy3BPI
 morea_labels:
  - video
- - 6 min
+ - 1 min
  - optional
 ---
 <!--  # Dr. Hill's Eclipse video demos
