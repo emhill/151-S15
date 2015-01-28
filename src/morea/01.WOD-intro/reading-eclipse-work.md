@@ -20,6 +20,8 @@ You can import a project into eclipse by either going to the file menu or right-
 Then go to General > Existing Projects into Workspace | | select archive file, and browse to the zip file on your computer.
 <a href="import-general.png"><img src="import-general.png" width="300"/></a> | | <a href="import-project.png"><img src="import-project.png" width="300"/></a> 
 
+If you (or your computer) has unzipped the project, select "root directory" instead and browse to the folder.
+
 ## Exporting an Eclipse project
 
 Whenever you submit an assignment, you will need to export it from Eclipse as a zip file. The simplest way to export a project in Eclipse is to right-click on the project in the package explorer:
