@@ -9,7 +9,7 @@ morea_labels:
  - 1/28
 ---
 
-# WOD: Hello World Import & Export
+# WOD1: Hello World Import & Export
 
 After installing eclipse & setting up your workspace, import your first project, change it, and export it.
 
@@ -26,7 +26,7 @@ After installing eclipse & setting up your workspace, import your first project,
 1. Change the program so that instead of displaying "Hello, World!" it days hello to you.
 2. Run the program to verify your changes.
 3. Export your program. If this were a graded WOD, you would also submit to moodle.
-1. *Stop your timer*
+<!--1. *Stop your timer*-->
 
 <!--{% include wod-times.html Rx="<10 min" Av="10-15 min" Sd="15-20 min" DNF="20+ min" %}
 
