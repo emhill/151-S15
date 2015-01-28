@@ -12,7 +12,6 @@ morea_readings:
 morea_outcomes:
  - outcome-java
 morea_experiences:
- - wod1
  - pwod1
 morea_icon_url: /morea/02.OO-intro/java-logo.png
 morea_sort_order: 2
