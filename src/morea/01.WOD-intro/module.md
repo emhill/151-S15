@@ -18,7 +18,7 @@ morea_readings:
  - reading-slides
 morea_experiences:
  - hw-eclipse
- - pwod1
+ - wod1
  - hw-java
  - hw-java-install
 morea_type: module

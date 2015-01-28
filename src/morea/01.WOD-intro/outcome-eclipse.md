@@ -3,7 +3,7 @@ title: "Take advantage of automated development tools"
 published: true
 morea_id: outcome-eclipse
 morea_type: outcome
-morea_sort_order: 2
+morea_sort_order: 6
 ---
 
 Using Eclipse to Develop Java Programs, including:

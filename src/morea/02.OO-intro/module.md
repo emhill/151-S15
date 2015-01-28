@@ -1,17 +1,19 @@
 ---
 title: "Intro to OO"
 published: true
-morea_coming_soon: true
+morea_coming_soon: false
 morea_id: oo-intro
 morea_type: module
+morea_readings:
+ - reading-burd3
+ - reading-javanotes2
+ - reading-slides
+morea_outcomes:
+ - outcome-java
+morea_experiences:
+ - pwod1
 morea_icon_url: /morea/02.OO-intro/java-logo.png
 morea_sort_order: 2
 ---
 
 Introduction to Object Oriented Programming and creating your first class.
-
-<!--morea_outcomes:
- - outcome2
-morea_readings:
- - reading-how-to-watch-screencasts-the-smart-way
- - reading-slides2-->
