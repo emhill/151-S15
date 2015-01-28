@@ -7,7 +7,7 @@ morea_type: module
 morea_readings:
  - reading-burd3
  - reading-javanotes2
- - reading-slides
+ - reading-slides2
 morea_outcomes:
  - outcome-java
 morea_experiences:
