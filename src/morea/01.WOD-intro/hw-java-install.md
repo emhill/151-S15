@@ -8,4 +8,5 @@ morea_sort_order: 4
 morea_url: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 morea_labels:
  - download
+ - due 1/30
 ---
