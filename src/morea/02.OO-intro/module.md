@@ -7,6 +7,7 @@ morea_type: module
 morea_readings:
  - reading-burd3
  - reading-javanotes2
+ - reading-burd4
  - reading-slides2
  - reading-slides3
  - reading-eclipse-work
