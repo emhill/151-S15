@@ -6,7 +6,7 @@ morea_type: experience
 morea_sort_order: 2
 morea_summary: "WOD: Hello World Import & Export"
 morea_labels:
- - 1/30
+ - due 1/30
 ---
 
 # WOD1: Hello World Import & Export
