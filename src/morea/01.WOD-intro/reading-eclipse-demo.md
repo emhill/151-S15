@@ -7,7 +7,6 @@ morea_type: reading
 morea_sort_order: 0
 morea_url: http://youtu.be/dc70DVjWnyI
 morea_labels:
- - video
  - 6 min
  - optional
 ---
