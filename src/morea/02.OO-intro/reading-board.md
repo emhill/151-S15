@@ -6,6 +6,5 @@ morea_summary: "Java Compilation Overview"
 morea_type: reading
 morea_url: /morea/02.OO-intro/board_notes.JPG
 morea_labels:
- - ppt
 morea_sort_order: 0
 ---
