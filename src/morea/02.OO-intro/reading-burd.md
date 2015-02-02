@@ -5,7 +5,6 @@ morea_id: reading-burd3
 morea_summary: "Burd Chapter 3"
 morea_type: reading
 morea_labels:
- - textbook
  - 20 pages
 morea_sort_order: 0
 ---

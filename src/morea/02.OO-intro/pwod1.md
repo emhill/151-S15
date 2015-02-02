@@ -6,7 +6,7 @@ morea_type: experience
 morea_sort_order: 2
 morea_summary: "Practice WOD: Hello World GUI App"
 morea_labels:
- - by 2/2
+ - by 2/4
 ---
 
 # PWOD1: Hello World GUI
