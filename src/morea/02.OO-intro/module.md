@@ -8,6 +8,7 @@ morea_readings:
  - reading-eclipse-work
  - reading-burd3
  - reading-slides2
+ - reading-board2
  - reading-eclipse-demo
  - reading-eclipse-import
  - reading-eclipse-export
