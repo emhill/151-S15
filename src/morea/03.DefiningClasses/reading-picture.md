@@ -7,6 +7,7 @@ morea_type: reading
 morea_labels:
 morea_sort_order: 0
 ---
+# Picture project & Circle class
 
 * [My Shapes project 2/4]({{site.baseurl}}/morea/03.DefiningClasses/Shapes_ehill1.zip)
 * [empty Picture.java]({{site.baseurl}}/morea/03.DefiningClasses/Picture.java)
