@@ -18,7 +18,7 @@ morea_outcomes:
 morea_experiences:
  - wod1
  - pwod1
-morea_icon_url: /morea/02.OO-intro/eclipse.jpg
+morea_icon_url: /morea/materials/eclipse.jpg
 morea_sort_order: 2
 ---
 

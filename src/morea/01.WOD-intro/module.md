@@ -17,7 +17,7 @@ morea_experiences:
  - hw-java
  - hw-java-install
 morea_type: module
-morea_icon_url: /morea/01.WOD-intro/wod.jpeg
+morea_icon_url: /morea/materials/wod.jpeg
 morea_sort_order: 1
 ---
 
