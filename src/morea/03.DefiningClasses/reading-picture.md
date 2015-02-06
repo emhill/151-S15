@@ -5,6 +5,7 @@ morea_id: reading-picture
 morea_summary: "Picture project & Circle class"
 morea_type: reading
 morea_labels:
+ - 2/4
 morea_sort_order: 0
 ---
 # Picture project & Circle class
