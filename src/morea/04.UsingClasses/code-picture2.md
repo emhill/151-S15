@@ -1,12 +1,12 @@
 ---
-title: "Class Code: Circle getArea()"
+title: "Class Code: Circle outlineColor"
 published: true
-morea_id: code-picture-2-6
-morea_summary: "Next step: add getPerimeter() to Circle."
+morea_id: code-picture-2-9
+morea_summary: "Next step: add a 3rd Circle to Picture."
 morea_type: reading
-morea_url: /morea/04.UsingClasses/Shapes_ehill1_02-06.zip
+morea_url: /morea/04.UsingClasses/Shapes_ehill1_02-09.zip
 morea_labels:
- - from 2/6
+ - from 2/9
 morea_sort_order: 0
 ---
 <!--# Picture project & Circle class

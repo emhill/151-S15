@@ -16,7 +16,7 @@ In lecture we created a Circle class together. Going from that example, try to c
 ## Instructions
 
 1. *Start your timer* 
-1. If you haven't been following along in class, download the [Shapes Project](Shapes_ehill1_02-06.zip) and import it into your workspace.
+1. If you haven't been following along in class, download the [Shapes Project](Shapes_ehill1_02-09.zip) and import it into your workspace.
 2. Right-click on your Shapes project and go to New > Class to create a `Triangle` class. Go ahead and check the box for Eclipse to create a main method.
 1. Add 6 fields to this class: `x`, `y`, `width`, `height`, `fillColor`, and `outlineColor`. Integers recommended.
 2. Add 3 constructors:

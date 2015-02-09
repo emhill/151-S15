@@ -9,6 +9,7 @@ morea_readings:
  - reading-burd9
  - reading-slides4
  - code-picture-2-6
+ - code-picture-2-9
 morea_outcomes:
  - outcome-java
  - outcome-classes
