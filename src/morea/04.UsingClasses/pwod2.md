@@ -27,7 +27,7 @@ In lecture we created a Circle class together. Going from that example, try to c
 4. Add a getArea() method & test it in main by creating a Triangle variable & initializing it by calling one of the constructors.
 4. Add a draw method that draws the triangle.
     * Hint 1: check out java.awt.Polygon
-    * Hint 2: 
+    * Hint 2: starting from `(x, y)`, where should the other 2 vertices be drawn using only the fields?
 4. Add a Triangle field to your Picture class to test it. Make your picture resemble something, like an ice cream cone or someone in a birthday hat.
 2. Run the program to verify your changes.
 1. *Stop your timer*
