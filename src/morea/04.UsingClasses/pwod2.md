@@ -15,27 +15,31 @@ In lecture we created a Circle class together. Going from that example, try to c
 
 ## Instructions
 
-Coming soon...
-
-<!--1. *Start your timer*
-1. Download [HelloWorldGUI.zip](HelloWorldGUI.zip)
-1. Open Eclipse and go to File > Import > General > Existing Projects into Workspace
-1. Select archive file, hit “Browse”, and select the name.zip you just downloaded
-1. Double-click the project folder, the src folder, and then the default package. You should now see a class file, HelloWorldGUI.java.
-1. To run the program:
-    -  Click on the green play button at the top of the screen **OR**
-    - Right-click name.java class and select “Run As > Java Application”
-1. Edit the paint? method in the HelloWorldGUI class so that the blue circle forms an even boarder around the yellow:
-2. Replace “Hello World” with your name and update both circles so your name is centered within them
+1. *Start your timer* 
+1. If you haven't been following along in class, download the [Shapes Project](Shapes_ehill1_02-06.zip) and import it into your workspace.
+2. Right-click on your Shapes project and go to New > Class to create a `Triangle` class. Go ahead and check the box for Eclipse to create a main method.
+1. Add 6 fields to this class: `x`, `y`, `width`, `height`, `fillColor`, and `outlineColor`. Integers recommended.
+2. Add 3 constructors:
+    * Default constructor (no parameters)
+    * Constructor with 5 parameters (no `outlineColor`)
+    * Constructor with 6 parameters (one for each field)
+3. Add get & set methods for all the fields
+4. Add a getArea() method & test it in main by creating a Triangle variable & initializing it by calling one of the constructors.
+4. Add a draw method that draws the triangle.
+    * Hint 1: check out java.awt.Polygon
+    * Hint 2: 
+4. Add a Triangle field to your Picture class to test it. Make your picture resemble something, like an ice cream cone or someone in a birthday hat.
 2. Run the program to verify your changes.
-3. Export your program by right-clicking on your project folder, and selecting “Export > General > Archive File”. Name the file “HelloWorldGUI_uLogin.zip”.
 1. *Stop your timer*
 
-{% include wod-times.html Rx="<3 min" Av="3-5 min" Sd="5-10 min" DNF="10+ min" %}
+<!--3. Export your program by right-clicking on your project folder, and selecting “Export > General > Archive File”. Name the file “HelloWorldGUI_uLogin.zip”.-->
+
+
+<!--{% include wod-times.html Rx="<3 min" Av="3-5 min" Sd="5-10 min" DNF="10+ min" %}-->
 
 ## Demonstration
-
-Once you've finished doing the WOD a single time, watch me do it:
+*Coming soon...*
+<!--Once you've finished doing the WOD a single time, watch me do it:
 
 {% include youtube.html id="lbh5q9Lj-As" %}
 
