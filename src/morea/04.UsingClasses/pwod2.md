@@ -39,6 +39,7 @@ In lecture we created a Circle class together. Going from that example, try to c
 
 ## Demonstration
 *Coming soon...*
+
 <!--Once you've finished doing the WOD a single time, watch me do it:
 
 {% include youtube.html id="lbh5q9Lj-As" %}
