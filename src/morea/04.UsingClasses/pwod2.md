@@ -6,7 +6,7 @@ morea_type: experience
 morea_sort_order: 2
 morea_summary: "Practice WOD: Triangle Class"
 morea_labels:
- - by 2/11
+ - by 2/9
 ---
 
 # PWOD2: Triangle Class
@@ -35,13 +35,13 @@ In lecture we created a Circle class together. Going from that example, try to c
 <!--3. Export your program by right-clicking on your project folder, and selecting “Export > General > Archive File”. Name the file “HelloWorldGUI_uLogin.zip”.-->
 
 
-<!--{% include wod-times.html Rx="<3 min" Av="3-5 min" Sd="5-10 min" DNF="10+ min" %}-->
+{% include wod-times.html Rx="<20 min" Av="20-40 min" Sd="40-60 min" DNF="60+ min" %}
 
 ## Demonstration
-*Coming soon...*
 
-<!-- Once you've finished doing the WOD a single time, watch me do it:
 
-{% include youtube.html id="lbh5q9Lj-As" %}
+ Once you've finished doing the WOD a single time, watch me do it:
 
-{% include wod-warning.html %}-->
+<!--{% include youtube.html id="lbh5q9Lj-As" %}-->
+
+{% include wod-warning.html %}
