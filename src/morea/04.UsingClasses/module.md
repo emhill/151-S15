@@ -10,6 +10,7 @@ morea_readings:
  - reading-slides4
  - code-picture-2-6
  - code-picture-2-9
+ - reading-slides5
 morea_outcomes:
  - outcome-java
  - outcome-classes
@@ -20,4 +21,4 @@ morea_sort_order: 4
 ---
 
 
-Using & creating shape classes
+Using & creating single shape classes
