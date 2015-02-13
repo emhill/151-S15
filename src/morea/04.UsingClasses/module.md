@@ -16,6 +16,7 @@ morea_outcomes:
  - outcome-classes
 morea_experiences:
  - pwod2
+ - wod2
 morea_icon_url: /morea/materials/keep-calm-and-object-oriented-program.png
 morea_sort_order: 4
 ---
