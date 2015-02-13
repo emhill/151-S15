@@ -11,9 +11,13 @@ morea_readings:
  - code-picture-2-6
  - code-picture-2-9
  - reading-slides5
+ - reading-eclipse-tips
+ - eclipse-tips2
+ - board3
 morea_outcomes:
  - outcome-java
  - outcome-classes
+ - outcome-eclipse
 morea_experiences:
  - pwod2
  - wod2
