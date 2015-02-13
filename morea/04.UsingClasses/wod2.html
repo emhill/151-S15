@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> Learning Outcomes | CSCI 151 </title>
+  <title> WOD2: Square | CSCI 151 </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
 
@@ -71,110 +71,73 @@
 </div>
 
 
-  <div class="container">
-  <h1>Learning Outcomes</h1>
+<div class="container">
+  <h1 id="wod2-square-class">WOD2: Square Class</h1>
+
+<p>So far we have created a Circle and Triangle class. Next we’ll create a Square class.</p>
+
+<h2 id="instructions">Instructions</h2>
+
+<!--1. *Start your timer* -->
+<ol>
+  <li>If you haven’t been following along in class, download the <a href="Shapes_pwod2.zip">Shapes Project</a> and import it into your workspace.</li>
+  <li>Right-click on your Shapes project and go to New &gt; Class to create a <code>Square</code> class. Go ahead and check the box for Eclipse to create a main method.</li>
+  <li>Add 5 fields to this class: <code>x</code>, <code>y</code>, <code>size</code>, <code>fillColor</code>, and <code>outlineColor</code>. Integers recommended.</li>
+  <li>Add 3 constructors:
+    <ul>
+      <li>Default constructor (no parameters)</li>
+      <li>Constructor with 4 parameters (no <code>outlineColor</code>)</li>
+      <li>Constructor with 5 parameters (one for each field)</li>
+    </ul>
+  </li>
+  <li>Add get &amp; set methods for all the fields</li>
+  <li>Add a <code>getArea()</code> and a <code>getPerimeter()</code> method &amp; test them in main by creating a Sqaure variable &amp; initializing it by calling one of the constructors.</li>
+  <li>Add a draw method that draws the square.5. </li>
+  <li>Add a Square field to your Picture class to test it.</li>
+  <li>Run the program to verify your changes.
+<!--1. *Stop your timer*--></li>
+  <li>Export your program by right-clicking on your project folder, and selecting “Export &gt; General &gt; Archive File”. Name the file “Square_uLogin.zip”.</li>
+</ol>
+
+<p><span class="h4">
+  <span style="padding: 2px" class="label label-success">Rx: &lt;10 min</span>
+  <span style="padding: 2px" class="label label-info">Av: 10-20 min</span>
+  <span style="padding: 2px" class="label label-warning">Sd: 20-30 min</span>
+  <span style="padding: 2px" class="label label-danger">DNF: 30+ min</span>
+</span></p>
+
+<!--## Demonstration
+
+ Once you've finished doing the WOD a single time, watch me do it:
+
+<div class="video-container">
+  <iframe  src="http://www.youtube.com/embed/dnU6XB0O8Nk" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<div class="section-background-1">
-  <div class="container">
-    <a style="padding-top: 50px; margin-top: -50px; display: table-caption;" name="outcome1"></a><h3><small>1.</small> Getting started with Java</h3>
-    <p>
-      
-    </p>
-    <p>Installing Java, Eclipse, and running your first Java program.</p>
+## Standard WOD Advice
 
-    <p>
-    <em>Referencing modules:</em>
-    
-      <a href="../modules/intro">Course Introduction</a>
-    
-    </p>
-    
+You’ll learn significantly less from watching me solve the
+WOD if you haven’t attempted the WOD yourself first.
 
-  </div>
+While it's an achievement to finish the WOD no matter how long it takes, you
+might experience "diminishing returns" if you work longer than the DNF
+time. Thus, it might be strategic to stop working at the DNF time and watch
+my solution.
+
+After watching my solution, I recommend that you repeat the WOD if you
+have not achieved at least Av performance. If so, be sure to:
+
+  * Delete your old project so you cannot refer to it (remember to delete contents from disk);
+  * Don’t look at my screencast while you WOD; and
+  * Reset your timer.
+
+Feel free to keep trying until you make Rx if that’s of interest to you.
+
+### My Final Project
+
+[Shapes_pwod2.zip](Shapes_pwod2.zip)-->
+
 </div>
-
-<div class="section-background-2">
-  <div class="container">
-    <a style="padding-top: 50px; margin-top: -50px; display: table-caption;" name="outcome-java"></a><h3><small>2.</small> Decompose problems into actions and objects</h3>
-    <p>
-      
-    </p>
-    <p>Decompose problems into actions and objects and implement them in the Java programming language. Includes both using objects and creating new classes.</p>
-
-    <p>
-    <em>Referencing modules:</em>
-    
-      <a href="../modules/oo-intro">Intro to OO &amp; Eclipse</a>, 
-    
-      <a href="../modules/types">Defining Classes &amp; Types</a>, 
-    
-      <a href="../modules/using-classes">Using Classes</a>
-    
-    </p>
-    
-
-  </div>
-</div>
-
-<div class="section-background-1">
-  <div class="container">
-    <a style="padding-top: 50px; margin-top: -50px; display: table-caption;" name="outcome-classes"></a><h3><small>3.</small> Writing &amp; using classes</h3>
-    <p>
-      
-    </p>
-    <p>Write classes containing fields, methods, and constructors. Using classes by instantiating (i.e., creating) objects.</p>
-
-    <p>
-    <em>Referencing modules:</em>
-    
-      <a href="../modules/using-classes">Using Classes</a>
-    
-    </p>
-    
-
-  </div>
-</div>
-
-<div class="section-background-2">
-  <div class="container">
-    <a style="padding-top: 50px; margin-top: -50px; display: table-caption;" name="outcome-eclipse"></a><h3><small>4.</small> Take advantage of automated development tools</h3>
-    <p>
-      
-    </p>
-    <p>Using Eclipse to Develop Java Programs, including:</p>
-
-<ul>
-  <li>Creating &amp; Running new Java programs</li>
-  <li>Importing &amp; Exporting existing Java programs</li>
-  <li>Automatically generating source code</li>
-  <li>Testing with JUnit</li>
-  <li>Using the automated debugger</li>
-</ul>
-
-    <p>
-    <em>Referencing modules:</em>
-    
-      <a href="../modules/intro">Course Introduction</a>, 
-    
-      <a href="../modules/oo-intro">Intro to OO &amp; Eclipse</a>, 
-    
-      <a href="../modules/types">Defining Classes &amp; Types</a>
-    
-    </p>
-    
-       <p>
-        <em>Assessed by:</em>
-        
-          <a href="../assessments/#grade1">Eclipse Import &amp; Export</a>
-        
-        </p>
-    
-
-  </div>
-</div>
-
-
 
 
 
