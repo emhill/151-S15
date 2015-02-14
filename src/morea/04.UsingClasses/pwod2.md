@@ -6,7 +6,7 @@ morea_type: experience
 morea_sort_order: 2
 morea_summary: "Practice WOD: Triangle Class"
 morea_labels:
- - by 2/9
+ - by 2/13
 ---
 
 # PWOD2: Triangle Class

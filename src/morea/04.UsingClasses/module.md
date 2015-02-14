@@ -11,7 +11,6 @@ morea_readings:
  - code-picture-2-6
  - code-picture-2-9
  - reading-slides5
- - reading-eclipse-tips
  - eclipse-tips2
  - board3
 morea_outcomes:
@@ -21,6 +20,7 @@ morea_outcomes:
 morea_experiences:
  - pwod2
  - wod2
+ - pwod3
 morea_icon_url: /morea/materials/keep-calm-and-object-oriented-program.png
 morea_sort_order: 4
 ---

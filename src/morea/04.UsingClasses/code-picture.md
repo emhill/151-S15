@@ -6,7 +6,7 @@ morea_summary: "Next step: add getPerimeter() to Circle."
 morea_type: reading
 morea_url: /morea/04.UsingClasses/Shapes_ehill1_02-06.zip
 morea_labels:
- - from 2/6
+ - 2/6
 morea_sort_order: 0
 ---
 <!--# Picture project & Circle class

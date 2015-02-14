@@ -6,7 +6,7 @@ morea_summary: "Next step: add a 3rd Circle to Picture."
 morea_type: reading
 morea_url: /morea/04.UsingClasses/Shapes_ehill1_02-09.zip
 morea_labels:
- - from 2/9
+ - 2/9
 morea_sort_order: 0
 ---
 <!--# Picture project & Circle class
