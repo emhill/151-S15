@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> WOD1: Hello World | CSCI 151 </title>
+  <title> PWOD3 | CSCI 151 </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
 
@@ -72,50 +72,50 @@
 
 
 <div class="container">
-  <h1 id="wod1-hello-world-import--export">WOD1: Hello World Import &amp; Export</h1>
+  <h1 id="pwod3-piggybank-class">PWOD3: PiggyBank Class</h1>
 
-<p>After installing eclipse &amp; setting up your workspace, import your first project, change it, and export it.</p>
+<p>So far we’ve been working with shapes and GUI Java classes. Can you write &amp; test a single Java class that only outputs to the console?</p>
 
 <h2 id="instructions">Instructions</h2>
 
-<!--1. *Start your timer*-->
 <ol>
-  <li>Download <a href="HelloWorld.zip">HelloWorld.zip</a></li>
-  <li>Open Eclipse and go to File &gt; Import &gt; General &gt; Existing Projects into Workspace</li>
-  <li>Select archive file, hit “Browse”, and select the HelloWorld.zip file you just downloaded
-    <ul>
-      <li>If you (or your computer) has unzipped the project, select “root directory” instead and browse to the folder.</li>
-    </ul>
-  </li>
-  <li>Double-click the project folder, the src folder, and then the default package. You should now see a class file, HelloWorld.java.</li>
-  <li>To run the program:
-    <ul>
-      <li>Click on the green play button at the top of the screen <strong>OR</strong></li>
-      <li>Right-click name.java class and select “Run As &gt; Java Application”</li>
-    </ul>
-  </li>
-  <li>Rename the project so that it is “HelloWorld_uLogin” by right-clicking on the project and selecting “Refactor &gt; Rename”</li>
-  <li>Change the program so that instead of displaying “Hello, World!” it says hello to you.</li>
+  <li><em>Start your timer</em> </li>
+  <li>Create a new Java Project called <code>PiggyBank_uLogin</code></li>
+  <li>Right-click on your PiggyBank project and go to New &gt; Class to create a <code>PiggyBank</code> class. Go ahead and check the box for Eclipse to create a main method.</li>
+  <li>Add 4 fields to this class: <code>pennies</code>, <code>nickels</code>, <code>dimes</code>, and <code>quarters</code>. These fields will hold the <em>number</em> of each type of coin in your piggy bank.</li>
+  <li>Create a default constructor with no parameters that initializes the fields to an empty piggy bank. </li>
+  <li>Write 4 methods to insert a single coin of each type: <code>insertPenny</code>, <code>insertNickel</code>, <code>insertDime</code>, and <code>insertQuarter</code>. The method signatures are similar in that there is <strong>no return value</strong> and <strong>no parameters</strong>.</li>
+  <li>Write 4 methods to insert multiple coins of each type: <code>insertPennies</code>, <code>insertNickels</code>, <code>insertDimes</code>, and <code>insertQuarters</code>. The method signatures are similar in that there is <strong>no return value</strong> and <strong>one parameter</strong>.</li>
+  <li>Write a <code>print</code> method that prints out how many quarters, dimes, nickels, and pennies are in the piggy bank. This method should have no return value and no parameters.</li>
+  <li>In your main method, create a new, empty PiggyBank and store it in a local variable. Call <code>print</code> on this empty PiggyBank. </li>
+  <li>Run the program to verify your changes. Do you see the appropriate output for an empty piggy bank?</li>
+  <li>Now add 67 cents to your piggy bank in main and print its contents again. Do you see the correct output?</li>
+  <li>Write a method <code>getAmount</code> that returns the total amount of money in the piggy bank. The amount should be expressed as an integer that represents the total number of cents (¢) in the piggy bank.</li>
+  <li>Modify the print method to print the total by calling <code>getAmount()</code>.</li>
   <li>Run the program to verify your changes.</li>
-  <li>Export your program by right-clicking on your project folder, and selecting “Export &gt; General &gt; Archive File”. Name the file “HelloWorld_uLogin.zip”.</li>
-  <li>Submit your zip file to moodle.</li>
-  <li>Note stop time.
-<!--1. *Stop your timer*--></li>
+  <li>Write a method <code>insertAmount</code> that takes a number of cents as a parameter and adds the appropriate number of quarters, dimes, nickels, and pennies into the piggy bank. You should use the largest coins possible to add the amount. (Hint: you may need to use %)</li>
+  <li>In main, insert 67¢ more into your PiggyBank object using the <code>insertAmount</code> method you just created. Print out the contents to verify your code is correct.</li>
+  <li>Run the program to verify your changes.</li>
+  <li>Assuming our PiggyBank in class is modelling a real life piggy bank, can you guess why we don’t want to create any constructors with parameters? We also don’t want to add any get or set methods – do you know why?</li>
+  <li><em>Stop your timer</em></li>
 </ol>
 
-<p><span class="h4">
-  <span style="padding: 2px" class="label label-success">Rx: &lt;3 min</span>
-  <span style="padding: 2px" class="label label-info">Av: 3-5 min</span>
-  <span style="padding: 2px" class="label label-warning">Sd: 5-10 min</span>
-  <span style="padding: 2px" class="label label-danger">DNF: 10+ min</span>
-</span></p>
+<!--3. Export your program by right-clicking on your project folder, and selecting “Export > General > Archive File”. Name the file “HelloWorldGUI_uLogin.zip”.-->
 
-<!--## Demonstration
+<!--<span class="h4">
+  <span style="padding: 2px" class="label label-success">Rx: <20 min</span>
+  <span style="padding: 2px" class="label label-info">Av: 20-40 min</span>
+  <span style="padding: 2px" class="label label-warning">Sd: 40-60 min</span>
+  <span style="padding: 2px" class="label label-danger">DNF: 60+ min</span>
+</span>
 
-Once you've finished doing the WOD a single time, watch me do it:
+
+## Demonstration
+
+ Once you've finished doing the WOD a single time, watch me do it:
 
 <div class="video-container">
-  <iframe  src="http://www.youtube.com/embed/lbh5q9Lj-As" frameborder="0" allowfullscreen></iframe>
+  <iframe  src="http://www.youtube.com/embed/dnU6XB0O8Nk" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Standard WOD Advice
@@ -135,7 +135,11 @@ have not achieved at least Av performance. If so, be sure to:
   * Don’t look at my screencast while you WOD; and
   * Reset your timer.
 
-Feel free to keep trying until you make Rx if that’s of interest to you.-->
+Feel free to keep trying until you make Rx if that’s of interest to you.
+
+### My Final Project
+
+[Shapes_pwod2.zip](Shapes_pwod2.zip)-->
 
 </div>
 
