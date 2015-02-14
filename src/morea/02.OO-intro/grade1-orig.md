@@ -1,23 +1,14 @@
 ---
 title: "Eclipse Import & Export"
 published: true
-morea_id: grade1
+morea_id: grade1-orig
 morea_type: assessment
 morea_outcomes_assessed:
   - outcome-eclipse
 morea_sort_order: 1
-morea_chartjs_data: "[12, 12, 1]"
-morea_chartjs_labels: '["Excellent", "Satisfactory", "Unsatisfactory"]'
-morea_chartjs_caption: |
-
-  Follow the Eclipse project workflow we'll be using for the rest of the semester. "Satisfactory" indicates that working Java code was submitted, but that the Eclipse project was flawed in some way.
-  
 ---
 
-{% include assessment-chartjs.html %}
-
-
-<!--<link rel="stylesheet" href="http://cdn.oesmith.co.uk/morris-0.4.3.min.css">
+<link rel="stylesheet" href="http://cdn.oesmith.co.uk/morris-0.4.3.min.css">
 <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
 <script src="http://cdn.oesmith.co.uk/morris-0.4.3.min.js"></script>
 
@@ -41,4 +32,3 @@ Morris.Bar({
   labels: ['Students']
 });
 </script>
--->
