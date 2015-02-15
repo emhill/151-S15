@@ -13,6 +13,8 @@ morea_labels:
 
 So far we've been working with shapes and GUI Java classes. Can you write & test a single Java class that only outputs to the console?
 
+{% include wod-times.html Rx="<20 min" Av="20-40 min" Sd="40-60 min" DNF="60+ min" %}
+
 ## Instructions
 
 1. *Start your timer* 
@@ -32,22 +34,17 @@ So far we've been working with shapes and GUI Java classes. Can you write & test
 6. Write a method `insertAmount` that takes a number of cents as a parameter and adds the appropriate number of quarters, dimes, nickels, and pennies into the piggy bank. You should use the largest coins possible to add the amount. (Hint: you may need to use %)
 3. In main, insert 67¢ more into your PiggyBank object using the `insertAmount` method you just created. Print out the contents to verify your code is correct.
 2. Run the program to verify your changes.
-3. Assuming our PiggyBank in class is modelling a real life piggy bank, can you guess why we don't want to create any constructors with parameters? We also don't want to add any get or set methods -- do you know why?
+3. Assuming our PiggyBank class is modelling a real life piggy bank, can you guess why we don't want to create any constructors with parameters? We also don't want to add any get or set methods -- do you know why?
 1. *Stop your timer*
-
-<!--3. Export your program by right-clicking on your project folder, and selecting “Export > General > Archive File”. Name the file “HelloWorldGUI_uLogin.zip”.-->
-
-
-<!--{% include wod-times.html Rx="<20 min" Av="20-40 min" Sd="40-60 min" DNF="60+ min" %}
 
 ## Demonstration
 
  Once you've finished doing the WOD a single time, watch me do it:
 
-{% include youtube.html id="dnU6XB0O8Nk" %}
+{% include youtube.html id="UsuueYD_JjY" %}
 
 {% include wod-warning.html %}
 
 ### My Final Project
 
-[Shapes_pwod2.zip](Shapes_pwod2.zip)-->
+[PiggyBank.zip](PiggyBank.zip)

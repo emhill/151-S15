@@ -18,7 +18,7 @@ So far we have created a Circle and Triangle class. Next we'll create a Square c
 <!--1. *Start your timer* -->
 1. If you haven't been following along in class, download the [Shapes Project](Shapes_pwod2.zip) and import it into your workspace.
 2. Right-click on your Shapes project and go to New > Class to create a `Square` class. Go ahead and check the box for Eclipse to create a main method.
-1. Add 5 fields to this class: `x`, `y`, `side`, `fillColor`, and `outlineColor`. Integers recommended.
+1. Add 5 fields to this class: `x`, `y`, `width`, `fillColor`, and `outlineColor`. Integers recommended.
 2. Add 3 constructors:
     * Default constructor (no parameters)
     * Constructor with 4 parameters (no `outlineColor`)
@@ -32,6 +32,8 @@ So far we have created a Circle and Triangle class. Next we'll create a Square c
 3. Export your program by right-clicking on your project folder, and selecting “Export > General > Archive File”. Name the file “Square_uLogin.zip”.
 
 {% include wod-times.html Rx="<10 min" Av="10-20 min" Sd="20-30 min" DNF="30+ min" %}
+
+<!-- started @ 10 am -->
 
 <!--## Demonstration
 
