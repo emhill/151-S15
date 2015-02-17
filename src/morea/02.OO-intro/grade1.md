@@ -7,10 +7,10 @@ morea_outcomes_assessed:
   - outcome-eclipse
 morea_sort_order: 1
 morea_chartjs_data: "[12, 12, 1]"
-morea_chartjs_labels: '["Excellent", "Satisfactory", "Unsatisfactory"]'
+morea_chartjs_labels: '["Satisfactory", "Unsatisfactory", "No Submission"]'
 morea_chartjs_caption: |
 
-  Follow the Eclipse project workflow we'll be using for the rest of the semester. "Satisfactory" indicates that working Java code was submitted, but that the Eclipse project was flawed in some way.
+  Follow the Eclipse project workflow we'll be using for the rest of the semester. "Satisfactory" indicates correct submissions. "Unsatisfactory" indicates that working Java code was submitted, but that the Eclipse project was flawed in some way.
   
 ---
 
