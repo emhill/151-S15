@@ -4,7 +4,7 @@ published: true
 morea_id: grade2
 morea_type: assessment
 morea_outcomes_assessed:
-  - outcome-eclipse
+ - outcome-classes
 morea_sort_order: 1
 morea_chartjs_data: "[13, 11, 1]"
 morea_chartjs_labels: '["Satisfactory", "Unsatisfactory", "No Submission"]'
