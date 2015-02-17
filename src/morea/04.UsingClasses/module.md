@@ -21,6 +21,8 @@ morea_experiences:
  - pwod2
  - wod2
  - pwod3
+morea_assessments:
+ - grade2
 morea_icon_url: /morea/materials/keep-calm-and-object-oriented-program.png
 morea_sort_order: 4
 ---

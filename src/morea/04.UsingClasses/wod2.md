@@ -24,7 +24,7 @@ So far we have created a Circle and Triangle class. Next we'll create a Square c
     * Constructor with 4 parameters (no `outlineColor`)
     * Constructor with 5 parameters (one for each field)
 3. Add get & set methods for all the fields
-4. Add a `getArea()` and a `getPerimeter()` method & test them in main by creating a Sqaure variable & initializing it by calling one of the constructors.
+4. Add a `getArea()` and a `getPerimeter()` method & test them in main by creating a Square variable & initializing it by calling one of the constructors.
 4. Add a draw method that draws the square. 
 4. Add a Square field to your Picture class to test it.
 2. Run the program to verify your changes.

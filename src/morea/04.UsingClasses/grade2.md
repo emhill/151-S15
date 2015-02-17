@@ -1,16 +1,16 @@
 ---
-title: "WOD1: Eclipse Import & Export"
+title: "WOD2: Square Class"
 published: true
-morea_id: grade1
+morea_id: grade2
 morea_type: assessment
 morea_outcomes_assessed:
   - outcome-eclipse
 morea_sort_order: 1
-morea_chartjs_data: "[12, 12, 1]"
-morea_chartjs_labels: '["Excellent", "Satisfactory", "Unsatisfactory"]'
+morea_chartjs_data: "[13, 11, 1]"
+morea_chartjs_labels: '["Satisfactory", "Unsatisfactory", "No Submission"]'
 morea_chartjs_caption: |
 
-  Follow the Eclipse project workflow we'll be using for the rest of the semester. "Satisfactory" indicates that working Java code was submitted, but that the Eclipse project was flawed in some way.
+  Create a Square class similar to the Circle and Triangle classes we have done as practice. "Satisfactory" indicates correct submissions that were on time. "Unsatisfactory" submissions were either correct and late or (more frequently) incorrect or incomplete in some way.
   
 ---
 
