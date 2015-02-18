@@ -6,7 +6,6 @@ morea_id: composition
 morea_type: module
 morea_readings:
  - slides7
- - reading-slides5
 morea_outcomes:
  - outcome-classes
 morea_experiences:

@@ -8,6 +8,7 @@ morea_readings:
  - reading-burd8
  - slides6
  - reading-oo5
+ - reading-slides5
 morea_outcomes:
  - outcome-inheritance
  - outcome-classes
