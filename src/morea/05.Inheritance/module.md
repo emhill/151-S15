@@ -1,0 +1,20 @@
+---
+title: "Inheritance"
+published: true
+morea_coming_soon: false
+morea_id: inheritance
+morea_type: module
+morea_readings:
+ - reading-burd8
+ - slides6
+ - reading-oo5
+morea_outcomes:
+ - outcome-inheritance
+ - outcome-classes
+morea_experiences:
+morea_assessments:
+morea_icon_url: /morea/materials/tree.jpg
+morea_sort_order: 5
+---
+
+Extending existing classes
