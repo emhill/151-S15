@@ -13,6 +13,7 @@ morea_outcomes:
  - outcome-inheritance
  - outcome-classes
 morea_experiences:
+ - pwod4
 morea_assessments:
 morea_icon_url: /morea/materials/tree.jpg
 morea_sort_order: 5
