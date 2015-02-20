@@ -17,3 +17,4 @@ How circle and ellipse are related:<BR>
 
 
  * Circle as a super class: [Shapes_2_18.zip](Shapes_2_18.zip)
+ * Ellipse as a super class: [Shapes_2_20.zip](Shapes_2_20.zip)
