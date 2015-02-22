@@ -1,7 +1,7 @@
 ---
 title: "Collections & Control Flow"
 published: true
-morea_coming_soon: true
+morea_coming_soon: false
 morea_id: control
 morea_type: module
 morea_readings:

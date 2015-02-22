@@ -13,7 +13,7 @@ morea_labels:
 
 In class we saw how to compose objects to create a BoxCar class, and in [PWOD5]({{ site.baseurl }}/morea/06.Composition/pwod5.html) you created a Tree class. Now we're going to create another composite shape: Forest.
 
-{% include wod-times.html Rx="<25 min" Av="20-40 min" Sd="40-60 min" DNF="60+ min" %}
+{% include wod-times.html Rx="<25 min" Av="25-50 min" Sd="50-75 min" DNF="75+ min" %}
 
 ## Instructions
 
