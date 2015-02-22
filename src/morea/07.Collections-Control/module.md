@@ -1,7 +1,7 @@
 ---
 title: "Collections & Control Flow"
 published: true
-morea_coming_soon: false
+morea_coming_soon: true
 morea_id: control
 morea_type: module
 morea_readings:
@@ -13,6 +13,7 @@ morea_outcomes:
  - outcome-classes
 morea_experiences:
  - pwod6
+ - pwod7
 morea_assessments:
 morea_icon_url: /morea/materials/programmer.jpeg
 morea_sort_order: 5

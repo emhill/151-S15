@@ -9,11 +9,11 @@ morea_labels:
  - by 2/25
 ---
 
-# PWOD5: Tree Class
+# PWOD5: Tree
 
 In class we saw how to compose objects to create a BoxCar class. Now we're going to create another composite shape: Tree.
 
-<!--{% include wod-times.html Rx="<20 min" Av="20-40 min" Sd="40-60 min" DNF="60+ min" %}-->
+{% include wod-times.html Rx="<25 min" Av="25-50 min" Sd="50-75 min" DNF="75+ min" %}
 
 ## Instructions
 
@@ -29,22 +29,22 @@ In class we saw how to compose objects to create a BoxCar class. Now we're going
     * a `setBounds` method that:
         * Has 4 parameters: `x`, `y`, `width`, & `height`
         * The tree starts at `x, y` and extends to `width` & `height`
-        * The trunk is 1/4 height of the tree & 1/5 the width
         * The top is 3/4 height of the tree & the full width
+        * The trunk is 1/4 height of the tree & 1/5 the width
      * a `draw` method that takes a `Graphics` parameter and calls the draw method of the 2 fields
 1. Test your new Tree class by adding 3 to the Picture class. Make sure to use different constructors, and change the size of the Tree using `setBounds` to verify that it works correctly for any size tree.
 1. *Stop your timer*
 
 ## Demonstration
 
-*Coming soon...*
+<!--*Coming soon...*-->
 
-<!--Once you've finished doing the WOD a single time, watch me do it:
+Once you've finished doing the WOD a single time, watch me do it:
 
-{% include youtube.html id="UsuueYD_JjY" %}
+{% include youtube.html id="JsiGJZUha7E" %}
 
 {% include wod-warning.html %}
 
 ### My Final Project
 
-[Shapes_pwod4.zip](Shapes_pwod4.zip)-->
+[Picture_tree.zip](Picture_tree.zip)

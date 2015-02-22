@@ -9,7 +9,7 @@ morea_labels:
  - by 2/23
 ---
 
-# PWOD4: Rectangle Class
+# PWOD4: Rectangle
 
 In class we saw how to use inheritance to reuse code between our Ellipse and Circle classes. Now it's your turn.
 
