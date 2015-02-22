@@ -43,8 +43,9 @@ In lecture we created a Circle class together. Going from that example, try to c
 
 {% include youtube.html id="dnU6XB0O8Nk" %}
 
-{% include wod-warning.html %}
-
 ### My Final Project
 
 [Shapes_pwod2.zip](Shapes_pwod2.zip)
+
+{% include wod-warning.html %}
+

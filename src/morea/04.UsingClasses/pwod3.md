@@ -43,8 +43,9 @@ So far we've been working with shapes and GUI Java classes. Can you write & test
 
 {% include youtube.html id="UsuueYD_JjY" %}
 
-{% include wod-warning.html %}
-
 ### My Final Project
 
 [PiggyBank.zip](PiggyBank.zip)
+
+{% include wod-warning.html %}
+

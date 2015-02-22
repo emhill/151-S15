@@ -43,8 +43,9 @@ Once you've finished doing the WOD a single time, watch me do it:
 
 {% include youtube.html id="JsiGJZUha7E" %}
 
-{% include wod-warning.html %}
-
 ### My Final Project
 
 [Picture_tree.zip](Picture_tree.zip)
+
+{% include wod-warning.html %}
+

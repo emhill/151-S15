@@ -47,8 +47,9 @@ So far we've been working with composing shape objects with GUI Java classes. No
 
 {% include youtube.html id="UsuueYD_JjY" %}
 
-{% include wod-warning.html %}
-
 ### My Final Project
 
-[Shapes_pwod4.zip](Shapes_pwod4.zip)-->
+[Shapes_pwod4.zip](Shapes_pwod4.zip)
+
+{% include wod-warning.html %}
+-->

@@ -45,8 +45,8 @@ Rectangle as a super class to Square:
 
 {% include youtube.html id="rKLl8vpDxy0" %}
 
-{% include wod-warning.html %}
-
 ### My Final Project
 
 [Shapes_pwod4.zip](Shapes_pwod4.zip)
+
+{% include wod-warning.html %}
