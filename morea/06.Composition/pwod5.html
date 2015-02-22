@@ -53,6 +53,8 @@
             
               <li><a href="/151-S15composition">Composing Objects</a></li>
             
+              <li><a href="/151-S15control">Collections & Control Flow</a></li>
+            
           </ul>
         </li>-->
 
@@ -92,57 +94,65 @@
 
 <ol>
   <li><em>Start your timer</em> </li>
-  <li>If you haven’t been following along in class, download the <a href="Shapes_starter.zip">Shapes Project</a> and import it into your workspace.</li>
-  <li>Use inheritance to add a Rectangle class to your Shapes project. First, think about how Square and Rectangle are related. Should Rectangle extend Square, or vice versa? We went over both ways in class.</li>
-  <li>Determine what fields are needed in the Square &amp; Rectangle classes. Overlapping fields should only be in <em>one</em> class.</li>
-  <li>Your Rectangle &amp; Square classes should have at least 3 constructors each:
+  <li>If you haven’t been following along in class, download the <a href="Picture_starter.zip">Picture Project</a> and import it into your workspace.</li>
+  <li>Create a new <code>Tree</code> class with:
     <ul>
-      <li>Default constructor (no parameters)</li>
-      <li>Constructor with parameters for each field except <code>outlineColor</code></li>
-      <li>Constructor with with parameters for each field</li>
+      <li>2 fields: a Triangle for the <code>top</code> &amp; a Rectangle for the <code>trunk</code></li>
+      <li>3 constructors:
+        <ul>
+          <li>Default constructor (no parameters)</li>
+          <li>Constructor with 4 parameters: <code>x</code>, <code>y</code>, <code>width</code>, &amp; <code>height</code></li>
+          <li>Constructor with 6 parameters: <code>x</code>, <code>y</code>, <code>width</code>, <code>height</code>, <code>topColor</code>, <code>trunkColor</code></li>
+        </ul>
+      </li>
+      <li>getters &amp; setters for <code>topColor</code> &amp; <code>trunkColor</code></li>
+      <li>a <code>setBounds</code> method that:
+        <ul>
+          <li>Has 4 parameters: <code>x</code>, <code>y</code>, <code>width</code>, &amp; <code>height</code></li>
+          <li>The tree starts at <code>x, y</code> and extends to <code>width</code> &amp; <code>height</code></li>
+          <li>The trunk is 1/4 height of the tree &amp; 1/5 the width</li>
+          <li>The top is 3/4 height of the tree &amp; the full width</li>
+        </ul>
+      </li>
+      <li>a <code>draw</code> method that takes a <code>Graphics</code> parameter and calls the draw method of the 2 fields</li>
     </ul>
   </li>
-  <li>Add get &amp; set methods for all the fields. There should not be any duplicated get/set methods.</li>
-  <li>Make sure the <code>getArea()</code> and <code>getPerimeter()</code> methods work for both classes, and test in main by creating at least one Rectangle and one Square object.</li>
-  <li>Make sure the <code>draw()</code> method works for both classes and test it by adding a Rectangle and Square to your Picture class.</li>
-  <li>Run the program to verify your changes.</li>
+  <li>Test your new Tree class by adding 3 to the Picture class. Make sure to use different constructors, and change the size of the Tree using <code>setBounds</code> to verify that it works correctly for any size tree.</li>
   <li><em>Stop your timer</em></li>
 </ol>
 
 <h2 id="demonstration">Demonstration</h2>
 
-<!--*Coming soon...*-->
+<p><em>Coming soon…</em></p>
 
-<p>Once you’ve finished doing the WOD a single time, watch me do it:</p>
+<!--Once you've finished doing the WOD a single time, watch me do it:
 
 <div class="video-container">
-  <iframe src="http://www.youtube.com/embed/UsuueYD_JjY" frameborder="0" allowfullscreen=""></iframe>
+  <iframe  src="http://www.youtube.com/embed/UsuueYD_JjY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<h2 id="standard-wod-advice">Standard WOD Advice</h2>
+## Standard WOD Advice
 
-<p>You’ll learn significantly less from watching me solve the
-WOD if you haven’t attempted the WOD yourself first.</p>
+You’ll learn significantly less from watching me solve the
+WOD if you haven’t attempted the WOD yourself first.
 
-<p>While it’s an achievement to finish the WOD no matter how long it takes, you
-might experience “diminishing returns” if you work longer than the DNF
+While it's an achievement to finish the WOD no matter how long it takes, you
+might experience "diminishing returns" if you work longer than the DNF
 time. Thus, it might be strategic to stop working at the DNF time and watch
-my solution.</p>
+my solution.
 
-<p>After watching my solution, I recommend that you repeat the WOD if you
-have not achieved at least Av performance. If so, be sure to:</p>
+After watching my solution, I recommend that you repeat the WOD if you
+have not achieved at least Av performance. If so, be sure to:
 
-<ul>
-  <li>Delete your old project so you cannot refer to it (remember to delete contents from disk);</li>
-  <li>Don’t look at my screencast while you WOD; and</li>
-  <li>Reset your timer.</li>
-</ul>
+  * Delete your old project so you cannot refer to it (remember to delete contents from disk);
+  * Don’t look at my screencast while you WOD; and
+  * Reset your timer.
 
-<p>Feel free to keep trying until you make Rx if that’s of interest to you.</p>
+Feel free to keep trying until you make Rx if that’s of interest to you.
 
-<h3 id="my-final-project">My Final Project</h3>
+### My Final Project
 
-<p><a href="Shapes_pwod4.zip">Shapes_pwod4.zip</a></p>
+[Shapes_pwod4.zip](Shapes_pwod4.zip)-->
 
 </div>
 
@@ -157,17 +167,17 @@ have not achieved at least Av performance. If so, be sure to:</p>
 
     
     <p style="margin: 0">Powered by the <a href="http://morea-framework.github.io/">Morea Framework</a> (Theme: cerulean)<br>
-       Last update on: <span>2015-02-22 11:34:25 -0500</span></p>
+       Last update on: <span>2015-02-22 13:32:57 -0500</span></p>
     <p style="margin: 0">
-      6 modules
+      7 modules
       
-        | 5 outcomes
-      
-      
-        | 35 readings
+        | 6 outcomes
       
       
-        | 7 experiences
+        | 39 readings
+      
+      
+        | 8 experiences
       
       
         | 3 assessments
