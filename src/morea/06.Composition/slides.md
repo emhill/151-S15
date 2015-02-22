@@ -7,6 +7,6 @@ morea_type: reading
 morea_url: /morea/materials/07-Composing.pptx
 morea_labels:
  - ppt
- - 2/20
+ - 2/23
 morea_sort_order: 0
 ---

@@ -24,7 +24,7 @@ In class we saw how to use inheritance to reuse code between our Ellipse and Cir
 3. Your Rectangle & Square classes should have at least 3 constructors each:
     * Default constructor (no parameters)
     * Constructor with parameters for each field except `outlineColor`
-    * Constructor with with parameters for each field
+    * Constructor with parameters for each field
 3. Add get & set methods for all the fields. There should not be any duplicated get/set methods.
 4. Make sure the `getArea()` and `getPerimeter()` methods work for both classes, and test in main by creating at least one Rectangle and one Square object.
 4. Make sure the `draw()` method works for both classes and test it by adding a Rectangle and Square to your Picture class.
