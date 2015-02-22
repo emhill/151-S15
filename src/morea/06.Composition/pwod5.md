@@ -1,24 +1,24 @@
 ---
-title: "PWOD4"
+title: "PWOD5"
 published: true
-morea_id: pwod4
+morea_id: pwod5
 morea_type: experience
 morea_sort_order: 4
-morea_summary: "Rectangle"
+morea_summary: "Tree"
 morea_labels:
- - by 2/23
+ - by 2/25
 ---
 
-# PWOD4: Rectangle Class
+# PWOD5: Tree Class
 
-In class we saw how to use inheritance to reuse code between our Ellipse and Circle classes. Now it's your turn.
+In class we saw how to compose objects to create a BoxCar class. Now we're going to create another composite shape: Tree.
 
-{% include wod-times.html Rx="<10 min" Av="10-20 min" Sd="20-30 min" DNF="30+ min" %}
+<!--{% include wod-times.html Rx="<20 min" Av="20-40 min" Sd="40-60 min" DNF="60+ min" %}-->
 
 ## Instructions
 
 1. *Start your timer* 
-1. If you haven't been following along in class, download the [Shapes Project](Shapes_2_20.zip) and import it into your workspace.
+1. If you haven't been following along in class, download the [Shapes Project](Shapes_starter.zip) and import it into your workspace.
 2. Use inheritance to add a Rectangle class to your Shapes project. First, think about how Square and Rectangle are related. Should Rectangle extend Square, or vice versa? We went over both ways in class.
 3. Determine what fields are needed in the Square & Rectangle classes. Overlapping fields should only be in *one* class.
 3. Your Rectangle & Square classes should have at least 3 constructors each:
@@ -35,15 +35,9 @@ In class we saw how to use inheritance to reuse code between our Ellipse and Cir
 
 <!--*Coming soon...*-->
 
-Once you've finished doing the WOD a single time, watch me do it.
+Once you've finished doing the WOD a single time, watch me do it:
 
-Square as a super class to Rectangle:
-
-{% include youtube.html id="19fPKI0k530" %}
-
-Rectangle as a super class to Square:
-
-{% include youtube.html id="rKLl8vpDxy0" %}
+{% include youtube.html id="UsuueYD_JjY" %}
 
 {% include wod-warning.html %}
 
