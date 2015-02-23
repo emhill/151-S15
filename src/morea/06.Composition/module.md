@@ -7,6 +7,7 @@ morea_type: module
 morea_readings:
  - slides7
  - picture
+ - board6
  - reading-oo5
 morea_outcomes:
  - outcome-classes
