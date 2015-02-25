@@ -34,10 +34,10 @@ BoxCarPart:<BR>
 <a href="BoxCarPart.png"><img src="BoxCarPart.png" height="150"/></a><P>
 
 BoxCar:<BR>
-<a href="BoxCar.png"><img src="BoxCar.png" height="150"/></a><P>
+<a href="BoxCar.png"><img src="BoxCar.png" height="150"/></a>
 
 BoxCar with 5 wheels:<BR>
-<a href="boxcar-5.png"><img src="boxcar-5.png" height="150"/></a><P>
+<a href="boxcar-5.png"><img src="boxcar-5.png" height="150"/></a>
 
 BoxCar with 10 wheels:<BR>
 <a href="boxcar-10.png"><img src="boxcar-10.png" height="150"/></a><BR>
