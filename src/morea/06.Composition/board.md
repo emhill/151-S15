@@ -5,12 +5,12 @@ morea_id: board6
 morea_summary: "In class"
 morea_type: reading
 morea_labels:
- - 2/23
+ - 2/23-2/25
 morea_sort_order: 0
 ---
 # Board Notes & Demo Code
 
-## 2/23
+## 2/23 & 2/25
 
 ### Drawing BoxCar
 
