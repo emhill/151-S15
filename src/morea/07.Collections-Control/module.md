@@ -8,7 +8,7 @@ morea_readings:
  - slides8
  - reading-oo3
  - reading-burd56
- - board6
+ - board7
 morea_outcomes:
  - outcome-programming
  - outcome-classes
