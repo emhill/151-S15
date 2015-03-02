@@ -11,6 +11,9 @@ morea_labels:
 
 # Project 1: Hangman Game
 
+**Parts A & B: due 3/16**<BR>
+**Parts C & D: due 3/23**
+
 Please see the following ppt slides and documents for additional details.
 
 * Overview slides: [Project1.pptx](project1/Project1.pptx)
