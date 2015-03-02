@@ -8,13 +8,14 @@ morea_readings:
  - slides8
  - reading-oo3
  - reading-burd56
- - board6
+ - board7
 morea_outcomes:
  - outcome-programming
  - outcome-classes
 morea_experiences:
  - pwod6
  - pwod7
+ - wod3
  - project1
 morea_assessments:
 morea_icon_url: /morea/materials/programmer.jpeg
