@@ -10,7 +10,7 @@ morea_chartjs_data: "[4, 15, 4, 2]"
 morea_chartjs_labels: '["Excellent", "Satisfactory", "Unsatisfactory", "No Submission"]'
 morea_chartjs_caption: |
 
-  Create a Pesron and Crowd similar to the BoxCar and Forest classes we have done as practice. "Excellent" is correct and on time, "Satisfactory" indicates correct submissions that were late (or on time with a minor issue), and "Unsatisfactory" submissions were incorrect or incomplete in some way.
+  Create a Pesron and Crowd similar to the BoxCar and Forest classes we have done as practice. "Excellent" is correct and on time, "Satisfactory" indicates correct submissions that were late (or on time with a minor issue), and "Unsatisfactory" submissions were incorrect or incomplete in some way. A score of 6 is excellent, 5 is satisfactory, and 1-4 unsatisfactory (needs improvement).
   
 ---
 
