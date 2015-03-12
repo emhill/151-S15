@@ -45,3 +45,6 @@ We've looked at box cars and forests, now let's build a crowd.
 3. Export your program by right-clicking on your project folder, and selecting “Export > General > Archive File”. Name the file “Crowd_uLogin.zip”.
 4. Upload your file to moodle to submit.
 
+## Person setBounds calculations
+
+<a href="person-math.JPG"><img src="person-math.JPG" width="400"/></a>

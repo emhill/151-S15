@@ -18,6 +18,7 @@ morea_experiences:
  - wod3
  - project1
 morea_assessments:
+ - grade3
 morea_icon_url: /morea/materials/programmer.jpeg
 morea_sort_order: 5
 ---
