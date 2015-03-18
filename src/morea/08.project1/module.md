@@ -2,7 +2,7 @@
 title: "Putting it all together"
 published: true
 morea_coming_soon: false
-morea_id: project1
+morea_id: hangman
 morea_type: module
 morea_readings:
  - slides9
