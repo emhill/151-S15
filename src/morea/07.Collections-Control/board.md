@@ -13,3 +13,6 @@ morea_sort_order: 0
 ## 2/27: Java GUI (x,y) coordinates
 
 <a href="java_gui_coords.JPG"><img src="java_gui_coords.JPG" width="400"/></a><BR>
+
+## 3/16: Getting Person started
+  * [Person_starter.zip](Person_starter.zip)
