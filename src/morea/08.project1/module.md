@@ -17,4 +17,4 @@ morea_icon_url: /morea/materials/hangman.jpg
 morea_sort_order: 8
 ---
 
-Proejct 1: Hangman Game
+Project 1: Hangman Game
