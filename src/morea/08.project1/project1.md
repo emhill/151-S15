@@ -6,13 +6,13 @@ morea_type: experience
 morea_sort_order: 7
 morea_summary: "Hangman"
 morea_labels:
- - due 3/16
+ - due 3/27
 ---
 
 # Project 1: Hangman Game
 
-**Parts A & B: due 3/16**<BR>
-**Parts C & D: due 3/23**
+**Parts A & B: due 3/23**<BR>
+**Parts C & D: due 3/27**
 
 Please see the following ppt slides and documents for additional details.
 
