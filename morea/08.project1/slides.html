@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> WOD3 | CSCI 151 </title>
+  <title> Project Slides | CSCI 151 </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
 
@@ -80,57 +80,7 @@
 
 
 <div class="container">
-  <h1 id="wod3-person--crowd-classes">WOD3: Person &amp; Crowd Classes</h1>
-
-<p>We’ve looked at box cars and forests, now let’s build a crowd.</p>
-
-<p><span class="h4">
-  <span style="padding: 2px" class="label label-success">Rx: &lt;20 min</span>
-  <span style="padding: 2px" class="label label-info">Av: 20-40 min</span>
-  <span style="padding: 2px" class="label label-warning">Sd: 40-60 min</span>
-  <span style="padding: 2px" class="label label-danger">DNF: 60+ min</span>
-</span></p>
-
-<!-- started @ 10 am 10:57 - -->
-
-<h2 id="instructions">Instructions</h2>
-
-<ol>
-  <li>Make a copy of your Picture project. If you haven’t been following along in class, download the <a href="Picture_starter.zip">Picture Project</a> and import it into your workspace.</li>
-  <li>Right-click your project and go to “Refactor &gt; Rename” to name it <code>Picture_uLogin</code></li>
-  <li>Right-click on your Picture project and go to “New &gt; Class” to create a <code>Person</code> class.</li>
-  <li>At minimum, your composite person shape should consiste of a <code>Circle</code> head field and a <code>Rectangle</code> body. (You may optionally create additional fields for arms, face, hat, etc.)</li>
-  <li>Create a Person constructor with 3 parameters: <code>x</code>, <code>y</code>, and <code>width</code>.</li>
-  <li>Create a Person constructor with 5 parameters: <code>x</code>, <code>y</code>, <code>width</code>, <code>headColor</code> and <code>bodyColor</code>.</li>
-  <li>Create a <code>setBounds</code> method that:
-    <ul>
-      <li>Has 3 parameters: <code>x</code>, <code>y</code>, &amp; <code>width</code></li>
-      <li>The person starts at <code>x - width / 2, y</code> and extends to <code>width</code> &amp; <code>height</code>. Note that the x position is in the <em>middle</em> of the person.</li>
-      <li>The head is the full width.</li>
-      <li>The body’s height is 2 times the width of the person &amp; the full width.</li>
-    </ul>
-  </li>
-  <li>Call your <code>setBounds</code> method from the constructor.</li>
-  <li>Create a <code>draw</code> method that takes a <code>Graphics</code> parameter and calls the draw methods of the 2 fields</li>
-  <li>Add getter &amp; setter methods for <code>headColor</code> and <code>bodyColor</code>.</li>
-  <li>Create a <code>Person</code> in your <code>Picture</code> class to test your code. When satisfied, move on to create a crowd.</li>
-  <li>Create a <code>Crowd</code> class with:
-    <ul>
-      <li>At least 3 <code>Person</code> fields or a single <code>ArrayList&lt;Person&gt;</code> field. When drawn, the people should overlap a little bit. For example, you could put two people behind the front person by reducing their size by 75% and putting them a little to the left and right of the front &amp; centered person: <br />
- <a href="person.png"><img src="person.png" width="150" /></a> </li>
-      <li>A constructor with 3 parameters: <code>x</code>, <code>y</code>, <code>width</code>. The width represents the overall width of the crowd, <em>not</em> an individual person.</li>
-      <li>A <code>draw</code> method that has a <code>Graphics</code> parameter and calls the corresponding draw methods for the people.</li>
-    </ul>
-  </li>
-  <li>Test your new <code>Crowd</code> class by replacing your <code>Person</code> field(s) in the Picture class. </li>
-  <li>Add two more <code>Crowd</code> fields to your Picture (for a total of 3). Modify the position &amp; sizes in the Picture class so each crowd looks a little bit different.</li>
-  <li>Export your program by right-clicking on your project folder, and selecting “Export &gt; General &gt; Archive File”. Name the file “Crowd_uLogin.zip”.</li>
-  <li>Upload your file to moodle to submit.</li>
-</ol>
-
-<h2 id="person-setbounds-calculations">Person setBounds calculations</h2>
-
-<p><a href="person-math.JPG"><img src="person-math.JPG" width="400" /></a></p>
+  
 
 </div>
 
