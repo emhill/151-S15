@@ -15,4 +15,4 @@ morea_sort_order: 0
 <a href="java_gui_coords.JPG"><img src="java_gui_coords.JPG" width="400"/></a><BR>
 
 ## 3/16: Getting Person started
-  * [Person_starter.zip](Person_starter.zip)
+  * [Person_starter.zip](../08.project1/Person_starter.zip)

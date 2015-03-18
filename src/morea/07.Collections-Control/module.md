@@ -16,7 +16,6 @@ morea_experiences:
  - pwod6
  - pwod7
  - wod3
- - project1
 morea_assessments:
  - grade3
 morea_icon_url: /morea/materials/programmer.jpeg
