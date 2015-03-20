@@ -16,3 +16,17 @@ morea_sort_order: 0
   
 ## 3/18: Getting AlphabetPanel started
   * [AlphabetPanelStarter.zip](AlphabetPanelStarter.zip)
+  
+## 3/20: Midterm Review
+
+Semantics of equals for primitive vs object types:
+
+<a href="equals.jpg"><img src="equals.jpg" width="200"/></a>
+
+Results in the following output:
+
+<a href="equals-midterm.jpg"><img src="equals-midterm.jpg" width="400"/></a>
+
+Manual walk through of the for loop:
+
+<a href="loop-midterm.jpg"><img src="loop-midterm.jpg" width="200"/></a>
