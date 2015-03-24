@@ -5,7 +5,7 @@ morea_id: board8
 morea_summary: "In class"
 morea_type: reading
 morea_labels:
- - 3/16-3/18
+ - 3/16-3/23
 morea_sort_order: 0
 ---
 # Board Notes & Demo Code
@@ -30,3 +30,6 @@ Results in the following output:
 Manual walk through of the for loop:
 
 <a href="loop-midterm.jpg"><img src="loop-midterm.jpg" width="200"/></a>
+
+## 3/23: RandomString Starter
+  * [RandomStringStarter.zip](RandomStringStarter.zip)
