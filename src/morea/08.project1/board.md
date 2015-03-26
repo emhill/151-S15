@@ -5,7 +5,7 @@ morea_id: board8
 morea_summary: "In class"
 morea_type: reading
 morea_labels:
- - 3/16-3/23
+ - 3/16-3/25
 morea_sort_order: 0
 ---
 # Board Notes & Demo Code
@@ -33,3 +33,6 @@ Manual walk through of the for loop:
 
 ## 3/23: RandomString Starter
   * [RandomStringStarter.zip](RandomStringStarter.zip)
+  
+## 3/25: HangmanGame Starter
+  * [HangmanGameStarter.zip](HangmanGameStarter.zip)
