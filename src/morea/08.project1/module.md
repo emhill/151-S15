@@ -8,6 +8,7 @@ morea_readings:
  - slides9
  - board8
 morea_outcomes:
+ - outcome-gui
  - outcome-programming
  - outcome-classes
 morea_experiences:
