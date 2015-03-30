@@ -5,10 +5,7 @@ morea_coming_soon: false
 morea_id: zuul
 morea_type: module
 morea_readings:
- - slides8
- - reading-oo3
- - reading-burd56
- - board7
+ - slides9
 morea_outcomes:
  - outcome-design
  - outcome-classes
