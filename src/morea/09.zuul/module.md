@@ -6,6 +6,7 @@ morea_id: zuul
 morea_type: module
 morea_readings:
  - slides9-zuul
+ - board9
 morea_outcomes:
  - outcome-design
 morea_experiences:
