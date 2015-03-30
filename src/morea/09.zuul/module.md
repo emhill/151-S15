@@ -7,6 +7,7 @@ morea_type: module
 morea_readings:
  - slides9-zuul
  - board9
+ - reading-bluej7
 morea_outcomes:
  - outcome-design
 morea_experiences:
