@@ -8,11 +8,9 @@ morea_readings:
  - slides9-zuul
 morea_outcomes:
  - outcome-design
- - outcome-classes
 morea_experiences:
  - pwod8
 morea_assessments:
- - grade3
 morea_icon_url: /morea/materials/duplicate.jpg
 morea_sort_order: 9
 ---
