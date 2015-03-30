@@ -17,4 +17,4 @@ morea_icon_url: /morea/materials/duplicate.jpg
 morea_sort_order: 9
 ---
 
-Getting control of your Java programs
+Refactoring to localize change
