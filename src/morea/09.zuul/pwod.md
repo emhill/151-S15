@@ -21,11 +21,11 @@ In this WOD we will see how to refactor an existing Java project so that code ch
 1. If you haven't been following along in class, download the [Zuul Starter Project](Zuul-orig.zip) and import it into your workspace.
 2. Implement the suggested changes in [Tasks.docx](Tasks.docx). Specifically, you will be moving from the original code design:
 
-<a href="ZuulOriginalUML.png"><img src="ZuulOriginalUML.png" width="300""></a>
+<a href="ZuulOriginalUML.png"><img src="ZuulOriginalUML.png" width="300"></a>
 
 ***to:***
 
-<a href="ZuulEnumUML.png"><img src="ZuulEnumUML.png" width="300""></a>
+<a href="ZuulEnumUML.png"><img src="ZuulEnumUML.png" width="300"></a>
 
 For the final task (adding support for additional command languages besides English), it is recommended you create a [CommandWords class](CommandWords-JavaDoc.docx).
 
