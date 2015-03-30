@@ -19,7 +19,7 @@ morea_experiences:
 morea_assessments:
  - grade3
 morea_icon_url: /morea/materials/programmer.jpeg
-morea_sort_order: 5
+morea_sort_order: 7
 ---
 
 Getting control of your Java programs

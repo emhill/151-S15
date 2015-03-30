@@ -15,7 +15,7 @@ morea_experiences:
  - pwod5
 morea_assessments:
 morea_icon_url: /morea/materials/composing.jpg
-morea_sort_order: 5
+morea_sort_order: 6
 ---
 
 Reusing existing classes
