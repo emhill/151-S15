@@ -1,7 +1,7 @@
 ---
 title: "Lecture Slides"
 published: true
-morea_id: slides9
+morea_id: slides9-zuul
 morea_summary: "Zuul"
 morea_type: reading
 morea_url: /morea/materials/09-Zuul.pptx
