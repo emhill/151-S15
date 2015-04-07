@@ -18,7 +18,7 @@ In this WOD we will see how to refactor an existing Java project so that code ch
 ## Instructions
 
 
-1. If you haven't been following along in class, download the [Zuul Starter Project](Zuul-orig.zip) and import it into your workspace.
+1. If you haven't been following along in class, download the [Zuul Starter Project](Zuul-orig.zip) and import it into your workspace. If you were following along in class, you can start from where we added the cellar: [Zuul-04_06.zip](Zuul-04_06.zip).
 2. Implement the suggested changes in [Tasks.docx](Tasks.docx). Specifically, you will be moving from the original code design:
 
 <a href="ZuulOriginalUML.png"><img src="ZuulOriginalUML.png" width="300"></a>
