@@ -10,7 +10,7 @@ morea_sort_order: 0
 ---
 # Board Notes & Demo Code
 
-## 4/1: Getting started
+## 4/1: Removing code duplication
   * [Zuul-04_01.zip](Zuul-04_01.zip)
 
 ## 4/6: Adding a cellar  
