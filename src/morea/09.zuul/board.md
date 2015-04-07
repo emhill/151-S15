@@ -11,8 +11,10 @@ morea_sort_order: 0
 # Board Notes & Demo Code
 
 ## 4/1: Getting started
-  * [Zuul-orig.zip](Zuul-orig.zip)
-  
+  * [Zuul-04_01.zip](Zuul-04_01.zip)
+
+## 4/6: Adding a cellar  
+  * [Zuul-04_06.zip](Zuul-04_06.zip)
   
 <!--## 3/20: Midterm Review
 
