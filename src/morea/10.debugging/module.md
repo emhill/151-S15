@@ -8,9 +8,10 @@ morea_readings:
  - slides10
  - board10
  - reading-eck9
+ - eclipse-debugger
 morea_outcomes:
  - outcome-design
- - reading-eclipse-tips
+ - outcome-eclipse
 morea_experiences:
  - pwod9
 morea_assessments:
