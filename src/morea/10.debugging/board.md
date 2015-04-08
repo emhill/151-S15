@@ -1,7 +1,7 @@
 ---
 title: "Board Notes & Demo Code"
 published: true
-morea_id: board9
+morea_id: board10
 morea_summary: "In class"
 morea_type: reading
 morea_labels:
@@ -9,6 +9,10 @@ morea_labels:
 morea_sort_order: 0
 ---
 # Board Notes & Demo Code
+
+## 4/7
+
+  * Starter code: [SortingB.zip](SortingB.zip)
 
 <!--## 4/1: Removing code duplication
   * [Zuul-04_01.zip](Zuul-04_01.zip)
