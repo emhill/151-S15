@@ -12,4 +12,4 @@ morea_labels:
 ---
 # Java Control Flow
 
-Read [Chapter 3](http://math.hws.edu/javanotes/c3/index.html)y. A PDF version is also [available]({{site.baseurl}}/morea/materials/javanotes7.pdf).
+Read [Chapter 3](http://math.hws.edu/javanotes/c3/index.html). A PDF version is also [available]({{site.baseurl}}/morea/materials/javanotes7.pdf).
