@@ -6,14 +6,14 @@ morea_type: experience
 morea_sort_order: 6
 morea_summary: "Zuul"
 morea_labels:
- - by 4/8
+ - by 4/10
 ---
 
 # PWOD8: World of Zuul
 
-In this WOD we will see how to refactor an existing Java project so that code changes are easier to make. We began this PWOD in class.
+In this PWOD we will see how to refactor an existing Java project so that code changes are easier to make. We began this PWOD in class.
 
-<!--{% include wod-times.html Rx="<25 min" Av="25-50 min" Sd="50-75 min" DNF="75+ min" %}-->
+{% include wod-times.html Rx="<30 min" Av="30-60 min" Sd="60-90 min" DNF="90+ min" %}
 
 ## Instructions
 
@@ -33,15 +33,15 @@ For the final task (adding support for additional command languages besides Engl
 
 ## Demonstration
 
-*Coming soon...*
+<!--*Coming soon...*-->
 
-<!--Once you've finished doing the WOD a single time, watch me do it:
+Once you've finished doing the WOD a single time, watch me do it:
 
-{% include youtube.html id="Oq0Nc5ZLYHc" %}
+{% include youtube.html id="VIl-61lgCy4" %}
 
 
 ### My Final Project
 
-[Picture_forest.zip](Picture_forest.zip)
+[Zuul_final.zip](Zuul_final.zip)
 
-{% include wod-warning.html %}-->
+{% include wod-warning.html %}
