@@ -14,6 +14,14 @@ morea_sort_order: 0
 
   * Starter code: [SortingB.zip](SortingB.zip)
 
+Example manual walk through:
+
+<a href="loop.JPG"><img src="loop.JPG" width="300"/></a>
+
+Eclipse debugging buttons:
+
+<a href="debugging.JPG"><img src="debugging.JPG" width="400"/></a>
+
 <!--## 4/1: Removing code duplication
   * [Zuul-04_01.zip](Zuul-04_01.zip)
 
