@@ -13,7 +13,7 @@ morea_labels:
 
 <!--In this PWOD we will see how to refactor an existing Java project so that code changes are easier to make. We began this PWOD in class.-->
 
-<!--{% include wod-times.html Rx="<30 min" Av="30-60 min" Sd="60-90 min" DNF="90+ min" %}-->
+{% include wod-times.html Rx="<15 min" Av="15-30 min" Sd="30-45 min" DNF="45+ min" %}
 
 ## Instructions
 
@@ -24,15 +24,9 @@ morea_labels:
 
 ## Demonstration
 
-*Coming soon...*
+<!--*Coming soon...*-->
 
-<!--Once you've finished doing the WOD a single time, watch me do it:
+Once you've finished doing the WOD a single time, watch me do it:
 
-{% include youtube.html id="VIl-61lgCy4" %}
+{% include youtube.html id="Gnc0hJ2mPs4" %}
 
-
-### My Final Project
-
-[Zuul_final.zip](Zuul_final.zip)
-
-{% include wod-warning.html %}-->
