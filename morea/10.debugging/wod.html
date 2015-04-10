@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> Defining Classes & Types | CSCI 151 </title>
+  <title> WOD4 | CSCI 151 </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
 
@@ -83,192 +83,55 @@
 </div>
 
 
-  <div class="container">
-  <h1><small>Module: </small> Defining Classes & Types </h1>
-  <p><p>Creating your first Java classes.</p>
-</p>
+<div class="container">
+  <h1 id="wod4-debugging--design">WOD4: Debugging &amp; Design</h1>
+
+<p><span class="h4">
+  <span style="padding: 2px" class="label label-success">Rx: &lt;15 min</span>
+  <span style="padding: 2px" class="label label-info">Av: 15-30 min</span>
+  <span style="padding: 2px" class="label label-warning">Sd: 30-45 min</span>
+  <span style="padding: 2px" class="label label-danger">DNF: 45+ min</span>
+</span></p>
+
+<h2 id="instructions">Instructions</h2>
+
+<ol>
+  <li>Download the <a href="ShoppingCart.zip">ShoppingCart Project</a> and import it into your workspace.</li>
+  <li>Rename it <code>ShoppingCart_uLogin</code>, replacing uLogin with your Drew e-mail before the ‘@’ sign.</li>
+  <li>Run the code. Is the output what you expect? There are two bugs in the program. Find and fix them.</li>
+  <li>Look at the code’s design. There is at least one instance of code duplication, and it exhibits poor encapsulation as well as tight coupling. Fix these design flaws without changing the behavior of the program.</li>
+  <li>Imagine you would like to organize the printed summary in <code>ShoppingCart.printSummary()</code> by item category: produce, entertainment, clothing, or other. If not specified, the category for an item should be “other”. Using an enumerated type, add a new <code>category</code> field to the <code>Item</code> class. Update <code>ShoppingCart.printSummary()</code> to print the categorized summary. Make sure to set the category of each item in main.</li>
+  <li>Export your project as an archive file &amp; upload to moodle.</li>
+</ol>
+
+<p>When finished, your program should output something like:</p>
+
+<pre><code>------ SUMMARY ------
+PRODUCE:
+	Apples, $3.95
+	Bananas, $0.79
+	Oranges, $1.49
+
+ENTERTAINMENT:
+	NY Yankees Tickets, $95.00
+
+CLOTHING:
+	Leather boots, $145.50
+
+
+------ INVOICE ------
+Apples (2 lbs) $3.95
+NY Yankees Tickets (behind home plate) $95.00
+Leather boots (black) $145.50
+Bananas (organic) $0.79
+Oranges (navel) $1.49
+----------------------
+Total: $246.73
+Highest-priced item: Leather boots, $145.50
+----------------------
+</code></pre>
+
 </div>
-
-
-<div class="section-background-1">
-  <div class="container">
-    <h2>Learning Outcomes</h2>
-
-    
-      
-      <h3>Decompose problems into actions and objects</h3>
-      <p>
-        
-      </p>
-      <p>Decompose problems into actions and objects and implement them in the Java programming language. Includes both using objects and creating new classes.</p>
-
-    
-      
-      <h3>Take advantage of automated development tools</h3>
-      <p>
-        
-      </p>
-      <p>Using Eclipse to Develop Java Programs, including:</p>
-
-<ul>
-  <li>Creating &amp; Running new Java programs</li>
-  <li>Importing &amp; Exporting existing Java programs</li>
-  <li>Automatically generating source code</li>
-  <li>Testing with JUnit</li>
-  <li>Using the automated debugger</li>
-</ul>
-
-    
-
-  </div>
-</div>
-
-
-
-
-
-<div class="section-background-2">
-  <div class="container">
-  <h2>Readings</h2>
-
-    <div class="row">
-      
-        
-        <div class="col-sm-3">
-          <div class="thumbnail">
-            <h4><a href="/151-S15/morea/03.DefiningClasses/reading-eclipse-tips.html">Eclipse Tips</a></h4>
-            <p>Hints &amp; tricks for working in Eclipse</p>
-
-            <p>
-              
-            </p>
-          </div>
-        </div>
-      
-      
-      
-      
-      
-        
-        <div class="col-sm-3">
-          <div class="thumbnail">
-            <h4><a href="/151-S15/morea/02.OO-intro/reading-javanotes.html">Names and Things</a></h4>
-            <p>Chapter 2-2.3 in Java Notes 7.</p>
-
-            <p>
-              
-              <span class="badge">textbook</span>
-              
-              <span class="badge">18 pages</span>
-              
-            </p>
-          </div>
-        </div>
-      
-      
-      
-      
-      
-        
-        <div class="col-sm-3">
-          <div class="thumbnail">
-            <h4><a href="/151-S15/morea/02.OO-intro/reading-burd4.html">Variables and Their Values</a></h4>
-            <p>Burd Chapter 4</p>
-
-            <p>
-              
-              <span class="badge">textbook</span>
-              
-              <span class="badge">30 pages</span>
-              
-            </p>
-          </div>
-        </div>
-      
-      
-      
-      
-      
-        
-        <div class="col-sm-3">
-          <div class="thumbnail">
-            <h4><a href="/151-S15/morea/materials/03-Java-Types.pptx">Lecture Slides</a></h4>
-            <p>Java Types &amp; Defining Classes</p>
-
-            <p>
-              
-              <span class="badge">ppt</span>
-              
-            </p>
-          </div>
-        </div>
-      
-       </div><div class="row">
-      
-      
-      
-      
-      
-        
-        <div class="col-sm-3">
-          <div class="thumbnail">
-            <h4><a href="/151-S15/morea/03.DefiningClasses/code-picture.html">Class Code</a></h4>
-            <p>Picture project &amp; Circle class</p>
-
-            <p>
-              
-              <span class="badge">from 2/4</span>
-              
-            </p>
-          </div>
-        </div>
-      
-      
-      
-      
-      
-
-    </div>
-  </div>
-</div>
-
-
-
-<div class="section-background-1">
-  <div class="container">
-  <h2>Experiences</h2>
-
-    <div class="row">
-      
-        
-        <div class="col-sm-3">
-          <div class="thumbnail">
-            <h4><a href="/151-S15/morea/02.OO-intro/pwod1.html">PWOD1: Hello World GUI</a></h4>
-            <p>Practice WOD: Hello World GUI App</p>
-
-            <p>
-              
-              <span class="badge">by 2/4</span>
-              
-            </p>
-          </div>
-        </div>
-      
-      
-      
-      
-      
-
-    </div>
-  </div>
-</div>
-
-
-
-
-
-
-
 
 
 
