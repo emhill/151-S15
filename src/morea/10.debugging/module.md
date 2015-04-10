@@ -14,6 +14,7 @@ morea_outcomes:
  - outcome-eclipse
 morea_experiences:
  - pwod9
+ - wod5
 morea_assessments:
 morea_icon_url: /morea/materials/debugger.png
 morea_sort_order: 10

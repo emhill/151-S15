@@ -39,6 +39,7 @@ Once you've finished doing the WOD a single time, watch me do it:
 
 {% include youtube.html id="VIl-61lgCy4" %}
 
+*Note:* video creates a look command for an exit, rather than the current room.
 
 ### My Final Project
 
