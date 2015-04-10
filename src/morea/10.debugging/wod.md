@@ -6,7 +6,7 @@ morea_type: experience
 morea_sort_order: 2
 morea_summary: "Debugging & Design"
 morea_labels:
- - 4/10
+ - 4/13
 ---
 
 # WOD4: Debugging & Design
