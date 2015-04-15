@@ -15,6 +15,9 @@ morea_sort_order: 0
 
 ## 4/6: Adding a cellar  
   * [Zuul-04_06.zip](Zuul-04_06.zip)
+
+## 4/15: Day of Week Enum example
+  * [DayOfWeek.zip](DayOfWeek.zip)
   
 <!--## 3/20: Midterm Review
 
