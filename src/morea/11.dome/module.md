@@ -2,7 +2,7 @@
 title: "Polymorphism & Inheritance"
 published: true
 morea_coming_soon: false
-morea_id: debugging
+morea_id: poly
 morea_type: module
 morea_readings:
  - slides11
