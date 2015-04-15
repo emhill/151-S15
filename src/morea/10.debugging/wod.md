@@ -38,7 +38,7 @@ morea_labels:
 		----------------------
 
 4. Look at the code's design. There is at least one instance of code duplication, and it exhibits poor encapsulation as well as tight coupling. Fix these design flaws without changing the behavior of the program.
-5. Imagine you would like to organize the printed summary in `ShoppingCart.printSummary()` by item category: produce, entertainment, clothing, or other. If not specified, the category for an item should be "other". Using an enumerated type, add a new `category` field to the `Item` class. Update `ShoppingCart.printSummary()` to print the categorized summary. Make sure to set the category of each item in main. ***Hint:*** Checkout the [day of the week example from class]({{site.base_url}}/morea/09.zuul/DayOfWeek.zip)
+5. Imagine you would like to organize the printed summary in `ShoppingCart.printSummary()` by item category: produce, entertainment, clothing, or other. If not specified, the category for an item should be "other". Using an enumerated type, add a new `category` field to the `Item` class. Update `ShoppingCart.printSummary()` to print the categorized summary. Make sure to set the category of each item in main. ***Hint:*** Checkout the [day of the week example from class]({{site.baseurl}}/morea/09.zuul/DayOfWeek.zip)
 6. Export your project as an archive file & upload to moodle.
 
 When finished, your program should output something like:
