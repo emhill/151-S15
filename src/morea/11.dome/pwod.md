@@ -26,11 +26,11 @@ If you haven't been following along in class, download the [DoMEv1.zip](DoMEv1.z
 
 <a href="DoMEv3.png"><img src="DoMEv3.png" width="300"></a>
 
-What if we wanted to add support for Video & Board Games to our DoME application? What types of information should we include in our DB for each of these? Is there any information that they share? Is it possible to add support for these types without changing the Database code (other than main)? How would you go about adding support for these new media types?
+What if we wanted to add support for other types of entertainment media such as Video Games to our DoME application? What types of information should we include in our DB for each of these? Is there any information that they share? Is it possible to add support for these types without changing the Database code (other than main)? How would you go about adding support for these new media types?
 
-Draw a new class diagram (DoMEv4) for adding Video & Board Games & update your implementation to support these new types. Be sure to test them in main.  
+Draw a new class diagram (DoMEv4) for adding Video Games, Board Games,  Card Games, and BluRays. Update your implementation to support these new types. Be sure to test them in main.  
 
-### Part 1. Draw your diagram
+### Part 1. Draw your diagram -- SUBMIT TO MOODLE
 
 Draw your class design diagram using a UML-styled notation like we’ve been doing in class. Class design diagrams are easiest to follow in graphical format. There are many free drawing programs you could use; I recommend [gliffy](http://www.gliffy.com/uml-software/).
 
