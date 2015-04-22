@@ -26,7 +26,7 @@ morea_sort_order: 0
 ## 4/22
 
   * Review from class: [ProgrammingConcepts.docx](ProgrammingConcepts.docx)
-  * Example abstract class & interface from Java API: [ArrayList](http://docs.oracle.com/javase/7/docs/api/java/util/ArrayList.html)
+  * Example abstract class & interface from Java API: [ArrayList JavaDoc](http://docs.oracle.com/javase/7/docs/api/java/util/ArrayList.html) & [ArrayList implementation](http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/6-b14/java/util/ArrayList.java)
 
 <!--
 Example manual walk through:
