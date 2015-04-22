@@ -2,7 +2,7 @@
 title: "Software Maintenance"
 published: true
 morea_coming_soon: false
-morea_id: hangman
+morea_id: project2
 morea_type: module
 morea_readings:
  - review
