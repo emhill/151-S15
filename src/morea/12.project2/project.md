@@ -29,7 +29,12 @@ You may change your mind after 5/27 with approval from me.
 5. Test your change
 6. Upload your modified code to github
 7. Export your change as a zip file & upload to moodle, along with the url to your github project.
-8. *Extra credit:* perform a pull request to add your change into the official project source code
+8. *Extra credit:* perform a pull request to add your change into the official project source code.
+
+For more information on git, see:
+
+  * [JavaWorld article](http://www.javaworld.com/article/2078630/open-source-tools/open-source-java-projects-github.html)
+
 
 ## Example projects
 
@@ -59,6 +64,48 @@ You may select any open source Java project. Below are some recommended programs
   * **Size:** 68,692 LOC (lines of code)
   * **Setup guide for developers:** [http://www.jajuk.info/git.html](http://www.jajuk.info/git.html)
 
+<!--**Ideas to improve:**
+
+  * *Coming soon*-->
+  
+<!--### GanttProject
+
+  * **Link**: [http://www.ganttproject.biz/](http://www.ganttproject.biz/)
+  * **Eclipse Project**: [JFreeChart.zip](JFreeChart.zip)
+  * **Main to run**: Any demo class in `src/org.jfree.chart.demo`
+  * **Requirements**: Java 6
+  * **Size:** 96,478 LOC (lines of code)
+  * **Setup guide for developers:** [http://www.ganttproject.biz/participate](http://www.ganttproject.biz/participate)
+
 **Ideas to improve:**
 
-  * *Coming soon*
+  * Fix a verified defect or enhancement: [https://code.google.com/p/ganttproject/issues/list?can=1](https://code.google.com/p/ganttproject/issues/list?can=1)
+
+### FreeMind
+
+  * **Link**: [http://www.jfree.org/jfreechart/](http://www.jfree.org/jfreechart/)
+  * **Eclipse Project**: [JFreeChart.zip](JFreeChart.zip)
+  * **Main to run**: Any demo class in `src/org.jfree.chart.demo`
+  * **Requirements**: Java 6
+  * **Size:** 96,478 LOC (lines of code)
+  * **Setup guide for developers:** [http://www.jfree.org/jfreechart/developers.html](http://www.jfree.org/jfreechart/developers.html)
+
+**Ideas to improve:**
+
+  * Fix a bug: [http://sourceforge.net/p/jfreechart/bugs/](http://sourceforge.net/p/jfreechart/bugs/)
+  * Implement a new feature: [http://sourceforge.net/p/jfreechart/feature-requests/](http://sourceforge.net/p/jfreechart/feature-requests/)
+-->
+
+### JFreeChart Library
+
+  * **Link**: [http://www.jfree.org/jfreechart/](http://www.jfree.org/jfreechart/)
+  * **Eclipse Project**: [JFreeChart.zip](JFreeChart.zip)
+  * **Main to run**: Any demo class in `src/org.jfree.chart.demo`
+  * **Requirements**: Java 6
+  * **Size:** 96,478 LOC (lines of code)
+  * **Setup guide for developers:** [http://www.jfree.org/jfreechart/developers.html](http://www.jfree.org/jfreechart/developers.html)
+
+**Ideas to improve:**
+
+  * Fix a bug: [http://sourceforge.net/p/jfreechart/bugs/](http://sourceforge.net/p/jfreechart/bugs/)
+  * Implement a new feature: [http://sourceforge.net/p/jfreechart/feature-requests/](http://sourceforge.net/p/jfreechart/feature-requests/)
