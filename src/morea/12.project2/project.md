@@ -11,7 +11,7 @@ morea_labels:
 
 # Project 2: Improve an Open Source Java Project
 
-*DRAFT*
+<!--*DRAFT*-->
 
 In this project, you will be updating an existing open source Java project by either fixing a bug or adding a new feature. ***By Monday 5/27*** you should have confirmed with me:
 
