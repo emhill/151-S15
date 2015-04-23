@@ -79,22 +79,22 @@ You may select any open source Java project. Below are some recommended programs
 
 **Ideas to improve:**
 
-  * Fix a verified defect or enhancement: [https://code.google.com/p/ganttproject/issues/list?can=1](https://code.google.com/p/ganttproject/issues/list?can=1)
+  * Fix a verified defect or enhancement: [https://code.google.com/p/ganttproject/issues/list?can=1](https://code.google.com/p/ganttproject/issues/list?can=1)-->
 
-### FreeMind
+<!--### FreeMind
 
-  * **Link**: [http://www.jfree.org/jfreechart/](http://www.jfree.org/jfreechart/)
+  * **Link**: [http://freemind.sourceforge.net](http://freemind.sourceforge.net)
   * **Eclipse Project**: [JFreeChart.zip](JFreeChart.zip)
   * **Main to run**: Any demo class in `src/org.jfree.chart.demo`
   * **Requirements**: Java 6
   * **Size:** 96,478 LOC (lines of code)
-  * **Setup guide for developers:** [http://www.jfree.org/jfreechart/developers.html](http://www.jfree.org/jfreechart/developers.html)
+  * **Setup guide for developers:** [http://freemind.sourceforge.net/wiki/index.php/Development](http://freemind.sourceforge.net/wiki/index.php/Development)
 
 **Ideas to improve:**
 
-  * Fix a bug: [http://sourceforge.net/p/jfreechart/bugs/](http://sourceforge.net/p/jfreechart/bugs/)
-  * Implement a new feature: [http://sourceforge.net/p/jfreechart/feature-requests/](http://sourceforge.net/p/jfreechart/feature-requests/)
--->
+  * Fix an open bug (not pending): [http://sourceforge.net/p/freemind/bugs/](http://sourceforge.net/p/freemind/bugs/)
+  * Implement a new enhancement: [http://freemind.sourceforge.net/wiki/index.php/Requests_for_enhancements](http://freemind.sourceforge.net/wiki/index.php/Requests_for_enhancements)-->
+
 
 ### JFreeChart Library
 
