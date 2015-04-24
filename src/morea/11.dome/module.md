@@ -14,7 +14,7 @@ morea_experiences:
  - pwod10
 morea_assessments:
 morea_icon_url: /morea/materials/finches.jpg
-morea_sort_order: 10
+morea_sort_order: 11
 ---
 
 Designing code
