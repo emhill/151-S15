@@ -13,12 +13,12 @@ morea_labels:
 
 <!--*DRAFT*-->
 
-In this project, you will be updating an existing open source Java project by either fixing a bug or adding a new feature. ***By Monday 5/27*** you should have confirmed with me:
+In this project, you will be updating an existing open source Java project by either fixing a bug or adding a new feature. ***By Monday 4/27*** you should have confirmed with me:
 
 1. What project you are working on, and 
 2. What bug or new feature you plan on fixing
 
-You may change your mind after 5/27 with approval from me.
+You may change your mind after 5/27 with approval from me. You may work with a partner.
 
 ## Instructions
 
