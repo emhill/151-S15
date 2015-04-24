@@ -18,7 +18,7 @@ In this project, you will be updating an existing open source Java project by ei
 1. What project you are working on, and 
 2. What bug or new feature you plan on fixing
 
-You may change your mind after 5/27 with approval from me. You may work with a partner.
+You may change your mind after 4/27 with approval from me. You may work with a partner.
 
 ## Instructions
 
