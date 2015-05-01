@@ -35,6 +35,22 @@ For more information on git, see:
 
   * [JavaWorld article](http://www.javaworld.com/article/2078630/open-source-tools/open-source-java-projects-github.html)
 
+### Directions for importing DrewSuperMario from Github
+
+1. Create a [github](https://github.com/) account
+1. Install [SourceTree](http://www.sourcetreeapp.com/)
+1. Create a repo for your team by forking DrewSuperMario: [https://github.com/emhill/DrewSuperMario.git](https://github.com/emhill/DrewSuperMario.git). *(If you're not working with a partner, you can skip this step and just clone the repo to your local machine.)*
+1. And then clone the repo to your local machine using SourceTree: `New Repo -> Clone from URL`
+1. Import your new clone into Eclipse by navigating to the path with
+`File > Import > Existing Projects Into Workspace > Select root directory >` & navigate local git path (**not** URL)
+
+**Team workflow using git:**
+  * Pull latest changes in source tree
+  * Make changes in eclipse -- run to test
+  * Stage the changed files in source tree
+  * Commit changes with an informative commit message & push to repo
+
+Once you're ready to share your changes with the class, then issue a pull request (directions to come).
 
 ## Example projects
 
