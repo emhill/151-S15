@@ -45,6 +45,7 @@ For more information on git, see:
 `File > Import > Existing Projects Into Workspace > Select root directory >` & navigate local git path (**not** URL)
 
 **Team workflow using git:**
+
   * Pull latest changes in source tree
   * Make changes in eclipse -- run to test
   * Stage the changed files in source tree
