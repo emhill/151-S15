@@ -42,9 +42,9 @@ Make sure to test your implementation in main in the Database class by adding at
 
 ## Demonstration
 
-*Coming soon...*
+<!--*Coming soon...*-->
 
-<!--Once you've finished doing the WOD a single time, watch me do it:
+Once you've finished doing the WOD a single time, watch me do it:
 
-{% include youtube.html id="Gnc0hJ2mPs4" %}-->
+{% include youtube.html id="3RdlDy7N_dE" %}
 
